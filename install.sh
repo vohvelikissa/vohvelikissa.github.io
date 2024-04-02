@@ -1,4 +1,4 @@
-cd;
+cd ~/;
 mkdir projects;
 cd projects;
 git clone git@github.com:vohvelikissa/bash_aliases;
