@@ -6,7 +6,7 @@
 
 #### Beginning
 
-As of late evening 27.12. I feel good for the coming week because I get to
+As of late evening 27.11. I feel good for the coming week because I get to
 just use my computer for hours and practice using Android Studio and make some
 really funny applications. Although I have to complete tasks from the fullstack
 open course and those feel like shit honestly to complete, there are some fun
