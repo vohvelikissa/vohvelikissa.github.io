@@ -31,3 +31,7 @@ I'm way too aware of the fact that AI will be fucking me hard
 ### Goals achieved
 
 Not applicable for this date
+
+# Social media
+
+Discord: pannukissa
