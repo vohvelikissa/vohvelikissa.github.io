@@ -18,7 +18,9 @@ tasks on my plate too and I get to spend time with my family too :)
 
 ### Goals
 
-### title here
+- [ ] Pride Game Jam Helsinki
+- [ ] Assembly Game Jam 2025
+- [ ] Global Game Jam 2025
 
 ### Goals achieved
 
@@ -27,6 +29,12 @@ tasks because the terms of conditions can just fuck me over at any moment
 if given the chance. They already tried to fuck over established game devs
 not so long ago and I do not have the confidence to say that they will not try
 again soon but harder than the last time.
+
+Because the game jams of the year that are locally attendable are pretty much
+gone and done with already I will just create three new tasks for this week
+that have the names of the hackathons that I want to attend next year. They
+will for sure certainly be fun because without fail all of the game jams were
+fun that I had the pleasure of attending this year.
 
 ## 27.11.2024
 
