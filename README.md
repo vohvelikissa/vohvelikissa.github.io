@@ -22,6 +22,12 @@ tasks on my plate too and I get to spend time with my family too :)
 
 ### Goals achieved
 
+Upon further investigation of my goals list I do not want to complete the unity
+tasks because the terms of conditions can just fuck me over at any moment
+if given the chance. They already tried to fuck over established game devs
+not so long ago and I do not have the confidence to say that they will not try
+again soon but harder than the last time.
+
 ## 27.11.2024
 
 ### Goals
@@ -31,8 +37,8 @@ is what I am trying to do here
 
 - [ ] use android studio for something
 - [ ] finish my first godot project
-- [ ] go through a unity course
-- [ ] make a unity game
+- [X] go through a unity course
+- [X] make a unity game
 - [ ] attend a game hackathon
 - [ ] go through a story building course
 - [ ] write a story
