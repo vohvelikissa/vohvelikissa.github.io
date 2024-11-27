@@ -4,14 +4,22 @@
 
 ### My feels during the week
 
+#### Beginning
+
 As of late evening 27.12. I feel good for the coming week because I get to
 just use my computer for hours and practice using Android Studio and make some
 really funny applications. Although I have to complete tasks from the fullstack
 open course and those feel like shit honestly to complete, there are some fun
 tasks on my plate too and I get to spend time with my family too :)
 
+#### Midway
+
+#### Ending
+
 ### Goals
+
 ### title here
+
 ### Goals achieved
 
 ## 27.11.2024
