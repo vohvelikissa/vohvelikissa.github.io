@@ -21,6 +21,20 @@ tasks on my plate too and I get to spend time with my family too :)
 - [ ] Pride Game Jam Helsinki
 - [ ] Assembly Game Jam 2025
 - [ ] Global Game Jam 2025
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
+- [ ] Fullstack Open Section
 
 ### Goals achieved
 
@@ -35,6 +49,9 @@ gone and done with already I will just create three new tasks for this week
 that have the names of the hackathons that I want to attend next year. They
 will for sure certainly be fun because without fail all of the game jams were
 fun that I had the pleasure of attending this year.
+
+For clarity purposes I will have the finishing fullstackopen task split up in
+sections in this weeks goals.
 
 ## 27.11.2024
 
