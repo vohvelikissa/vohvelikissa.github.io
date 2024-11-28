@@ -1,5 +1,13 @@
 # Personal blog or something
 
+## How I work during these?
+
+I simply just have a timer that I set to two hours and then I do work as hard
+as I possibly can during that time. After that I am just taking a 15 minute 
+break just to then repeat the cycle 4 to 5 times per day. This might sound
+like a tough deal if you are lazy, but I quarantee and stand by me not being
+such thing or even close to it. I work harder than you.
+
 ## 4.12.2024 (WIP)
 
 ### My feels during the week
