@@ -19,6 +19,16 @@ such thing or even close to it. I work harder than you.
 
 ### Books that I have read (and what I learned)
 
+#### 1/12 Tohtori Kuka ja autonien hyökkäys (currently on page 34)
+
+As I have been reading this book I cannot stop myself from thinking that the
+current Disney run version of Doctor Who is actually just fucking dogshit. In
+this book the people who have been introduced in it have had their reasonable
+doubts on who or what everything that is alien to them is and have been pretty
+normal in all other ways too. 
+
+This book reflects a bit of sexism which I guess was just normal in the 1970s.
+
 ### Misc
 
 ## 4.12.2024 (WIP)
