@@ -56,6 +56,8 @@ tasks on my plate too and I get to spend time with my family too :)
 - [ ] novel writing course section
 - [ ] novel writing course section
 - [ ] novel writing course section
+- [ ] character building video 1
+- [ ] character building video 2
 
 ### Goals achieved
 
@@ -88,6 +90,12 @@ story writing course that I will be completing here. My initial feel to the thin
 is that it seems decent enough for me to spend my time on completing in full.
 The views to likes ratio is decent enough that it might not even be botted
 and the methodology in the first video sounds nice enough.
+
+To learn how to write good and complex characters I will watch two videos in
+full. Namely "How to write fantasy character arcs better than 99 % of writers
+by Jed Herne (haha funny last name xD) and "Lecture #9: Characters" by 
+Brandon Sanderson. All of this will most likely be fun and I'm excited to 
+eventually get around doing it.
 
 ## 27.11.2024
 
