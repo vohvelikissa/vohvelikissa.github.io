@@ -8,6 +8,19 @@ break just to then repeat the cycle 4 to 5 times per day. This might sound
 like a tough deal if you are lazy, but I quarantee and stand by me not being
 such thing or even close to it. I work harder than you.
 
+## December to December resolutions 2024-2025
+
+- [ ] Read 12 books
+- [ ] Go exercise everyday (atleast a walk)
+- [ ] eat properly
+- [ ] sleep well
+
+### Exercise notes
+
+### Books that I have read (and what I learned
+
+### Misc
+
 ## 4.12.2024 (WIP)
 
 ### My feels during the week
