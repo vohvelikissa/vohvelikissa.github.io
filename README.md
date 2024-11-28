@@ -35,6 +35,27 @@ tasks on my plate too and I get to spend time with my family too :)
 - [ ] Fullstack Open Section 11
 - [ ] Fullstack Open Section 12
 - [ ] Fullstack Open Section 13
+- [X] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
+- [ ] novel writing course section
 
 ### Goals achieved
 
@@ -61,6 +82,12 @@ brave-browser installation. That thing is such a fat piece of shit software
 that that can and will happen if you are stupid enough to try android studio
 from JetBrains. Be warned, you are not in for a good time or a particularly 
 long time. Android will cause cancer.
+
+I started the novel writing course from the youtube channel NovelWriting as the
+story writing course that I will be completing here. My initial feel to the thing
+is that it seems decent enough for me to spend my time on completing in full.
+The views to likes ratio is decent enough that it might not even be botted
+and the methodology in the first video sounds nice enough.
 
 ## 27.11.2024
 
