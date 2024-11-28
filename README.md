@@ -17,7 +17,7 @@ such thing or even close to it. I work harder than you.
 
 ### Exercise notes
 
-### Books that I have read (and what I learned
+### Books that I have read (and what I learned)
 
 ### Misc
 
