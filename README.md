@@ -21,20 +21,20 @@ tasks on my plate too and I get to spend time with my family too :)
 - [ ] Pride Game Jam Helsinki
 - [ ] Assembly Game Jam 2025
 - [ ] Global Game Jam 2025
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
-- [ ] Fullstack Open Section
+- [X] Fullstack Open Section 0
+- [X] Fullstack Open Section 1
+- [ ] Fullstack Open Section 2
+- [ ] Fullstack Open Section 3
+- [ ] Fullstack Open Section 4
+- [ ] Fullstack Open Section 5
+- [ ] Fullstack Open Section 6
+- [ ] Fullstack Open Section 7
+- [ ] Fullstack Open Section 8
+- [ ] Fullstack Open Section 9
+- [ ] Fullstack Open Section 10
+- [ ] Fullstack Open Section 11
+- [ ] Fullstack Open Section 12
+- [ ] Fullstack Open Section 13
 
 ### Goals achieved
 
@@ -51,7 +51,10 @@ will for sure certainly be fun because without fail all of the game jams were
 fun that I had the pleasure of attending this year.
 
 For clarity purposes I will have the finishing fullstackopen task split up in
-sections in this weeks goals.
+sections in this weeks goals. Apparently I have already completed the first two
+of the parts in it so I will be marking those parts as complete from here on
+out. I have no idea as to how long completing this god forsaken course in full
+so that I will have the opportunity of having 3 free job interviews will take.
 
 ## 27.11.2024
 
