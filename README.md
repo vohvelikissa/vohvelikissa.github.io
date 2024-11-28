@@ -56,6 +56,12 @@ of the parts in it so I will be marking those parts as complete from here on
 out. I have no idea as to how long completing this god forsaken course in full
 so that I will have the opportunity of having 3 free job interviews will take.
 
+The first time that I tried to download android studio this week it crashed my
+brave-browser installation. That thing is such a fat piece of shit software
+that that can and will happen if you are stupid enough to try android studio
+from JetBrains. Be warned, you are not in for a good time or a particularly 
+long time. Android will cause cancer.
+
 ## 27.11.2024
 
 ### Goals
@@ -63,7 +69,7 @@ so that I will have the opportunity of having 3 free job interviews will take.
 Becoming a game developer sounds like a fun thing to do professionally so that
 is what I am trying to do here
 
-- [ ] use android studio for something
+- [X] use android studio for something
 - [ ] finish my first godot project
 - [X] go through a unity course
 - [X] make a unity game
