@@ -19,7 +19,7 @@ such thing or even close to it. I work harder than you.
 
 ### Books that I have read (and what I learned)
 
-#### 2/12 TBD
+#### 2/12 Upeaa Työtä - Lauri Järvilehto (currently on page 0)
 
 #### 1/12 Tohtori Kuka ja autonien hyökkäys (currently on page 34- Stopped right there because I remembered I had already read this fucking book xD)
 
