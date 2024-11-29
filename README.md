@@ -173,3 +173,13 @@ cannot be verified or replicated in all instances. Usually they will however be
 very reasonable and I will show how I got to that conclusion in them. I will 
 never for example directly or indirectly say "_ is bad" without having a 
 justifiable reason for it. 
+
+## You should actively try to think for yourself
+
+The benefits of thinking really should be obvious, but evidently they are not,
+and many of the events that have happened very recently are the proof.
+Please, please, please just try to think even for a week when you read something
+the answers to the questions that many teachers for text analysis classes tell
+you, namely: who, where, how, when and why.
+
+Natural stupidity is fine, but you should still aspire to be better.
