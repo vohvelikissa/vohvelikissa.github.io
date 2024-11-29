@@ -19,7 +19,9 @@ such thing or even close to it. I work harder than you.
 
 ### Books that I have read (and what I learned)
 
-#### 1/12 Tohtori Kuka ja autonien hyökkäys (currently on page 34)
+#### 2/12 TBD
+
+#### 1/12 Tohtori Kuka ja autonien hyökkäys (currently on page 34- Stopped right there because I remembered I had already read this fucking book xD)
 
 As I have been reading this book I cannot stop myself from thinking that the
 current Disney run version of Doctor Who is actually just fucking dogshit. In
