@@ -167,3 +167,9 @@ Not applicable for this date
 Discord: pannukissa
 
 # Opinions
+
+The following opinion pieces usually are from my own observations and probably
+cannot be verified or replicated in all instances. Usually they will however be
+very reasonable and I will show how I got to that conclusion in them. I will 
+never for example directly or indirectly say "_ is bad" without having a 
+justifiable reason for it. 
