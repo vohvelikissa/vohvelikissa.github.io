@@ -19,7 +19,18 @@ such thing or even close to it. I work harder than you.
 
 ### Books that I have read (and what I learned)
 
-#### 2/12 Upeaa Työtä - Lauri Järvilehto (currently on page 0)
+#### 2/12 Upeaa Työtä - Lauri Järvilehto (currently on page 14)
+
+This book is about finding a good job for yourself and or trying to make 
+something for yourself. That as a thing is the biggest motivator for me.
+I want to get rich. If I do not get rich, I will infact die trying. Fuck living
+as a poor non millionaire engineering student who tries too hard incomparison
+to others. And especially fuck you reader.
+
+- [ ] start a business
+- [ ] build a contacting list
+- [ ] make a swot analysis of myself
+- [ ] make that ikigai ball thing
 
 #### 1/12 Tohtori Kuka ja autonien hyökkäys (currently on page 34- Stopped right there because I remembered I had already read this fucking book xD)
 
