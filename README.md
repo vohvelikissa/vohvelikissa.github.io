@@ -44,6 +44,9 @@ This book reflects a bit of sexism which I guess was just normal in the 1970s.
 
 ### Misc
 
+On the first day of December 2024 this all feels nice and dandy and I want to 
+achieve all of my goals.
+
 ## 4.12.2024 (WIP)
 
 ### My feels during the week
@@ -57,6 +60,13 @@ open course and those feel like shit honestly to complete, there are some fun
 tasks on my plate too and I get to spend time with my family too :)
 
 #### Midway
+
+This week has been slightly slower than what I expected for it to be because
+alot of the time that I could have spent working was instead spent gathering 
+new information for me to process further into actionable goals. Me having to
+help some of my family during the weekend is also a factor that goes into this
+and should not be considered a negative because it is a great benefit to have
+a family that is well and healthy.
 
 #### Ending
 
