@@ -17,6 +17,9 @@ such thing or even close to it. I work harder than you.
 
 ### Exercise notes
 
+Decided to start regular exercise on 2.12.2024 because it is a monday and I had
+some really good family time on the first.
+
 ### Books that I have read (and what I learned)
 
 #### 2/12 Upeaa Työtä - Lauri Järvilehto (currently on page 14)
