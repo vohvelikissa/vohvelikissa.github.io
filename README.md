@@ -188,8 +188,8 @@ Not applicable for this date
 
 # Social media
 
-Discord: pannukissa
-Github: vohvelikissa
+- Discord: pannukissa
+- Github: vohvelikissa
 
 # Opinions
 
