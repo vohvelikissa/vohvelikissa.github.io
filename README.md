@@ -36,7 +36,9 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 3/13 TBD
+#### 3/12 TBD
+
+
 
 #### 2/12 Upeaa Työtä - Lauri Järvilehto 
 
@@ -206,6 +208,7 @@ Not applicable for this date
 
 - Discord: pannukissa
 - Github: vohvelikissa
+- Instagram: vilppes
 
 # Opinions
 
