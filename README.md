@@ -1,5 +1,19 @@
 # Personal blog or something
 
+## Long term goals
+
+My long term goals have the aspiration to become the best person that I can be
+built into them in a very deep way. 
+
+- [ ] run a successful business
+- [ ] become a millionaire
+- [ ] run a marathon
+- [ ] lift 100 kg
+- [ ] run 15 km
+- [ ] buy a house
+- [ ] have kids of my own
+- [ ] do something tangible for my country
+
 ## How I work during these?
 
 I simply just have a timer that I set to two hours and then I do work as hard
@@ -22,7 +36,9 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 2/12 Upeaa Työtä - Lauri Järvilehto (currently on page 14)
+#### 3/13 TBD
+
+#### 2/12 Upeaa Työtä - Lauri Järvilehto 
 
 This book is about finding a good job for yourself and or trying to make 
 something for yourself. That as a thing is the biggest motivator for me.
