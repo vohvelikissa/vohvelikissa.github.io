@@ -36,7 +36,7 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 3/12 TBD
+#### 3/12 The business of sharing - Alex Stephany (currently on page 1)
 
 
 
