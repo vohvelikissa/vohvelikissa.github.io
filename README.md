@@ -36,9 +36,15 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 3/12 The business of sharing - Alex Stephany (currently on page 1)
+#### 3/12 The business of sharing - Alex Stephany (currently on page 2)
 
+This book is about businesses that make their money by sharing resources such
+as cars and items and housing.
 
+- [ ] Make a sharing business app
+- [ ] check out JustPark api
+- [ ] check out uber api
+- [ ] check out lyft api
 
 #### 2/12 Upeaa Työtä - Lauri Järvilehto 
 
