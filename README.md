@@ -36,7 +36,9 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 3/12 The business of sharing - Alex Stephany (currently on page 2)
+#### 4/12 TBD
+
+#### 3/12 The business of sharing - Alex Stephany 
 
 This book is about businesses that make their money by sharing resources such
 as cars and items and housing.
@@ -45,6 +47,10 @@ as cars and items and housing.
 - [ ] check out JustPark api
 - [ ] check out uber api
 - [ ] check out lyft api
+- [ ] check out voi scooters api
+- [ ] check out bird scooters api
+- [ ] check out airbnb api
+- [ ] check out commu api
 
 #### 2/12 Upeaa Työtä - Lauri Järvilehto 
 
@@ -74,7 +80,24 @@ This book reflects a bit of sexism which I guess was just normal in the 1970s.
 On the first day of December 2024 this all feels nice and dandy and I want to 
 achieve all of my goals.
 
-## 4.12.2024 (WIP)
+## 11.12.2024
+
+### My feels during the week
+
+#### Beginning
+
+This week probably will start real slow because of the independence day related
+activities that I have coming up. I apologise to myself for the inconvenience.
+
+#### Midway
+
+#### Ending
+
+### Goals
+
+### Goals achieved
+
+## 4.12.2024
 
 ### My feels during the week
 
@@ -96,6 +119,8 @@ and should not be considered a negative because it is a great benefit to have
 a family that is well and healthy.
 
 #### Ending
+
+The end for this week ended up being a slower one for personal reasons
 
 ### Goals
 
