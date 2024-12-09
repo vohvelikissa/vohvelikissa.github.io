@@ -270,6 +270,11 @@ you, namely: who, where, how, when and why.
 
 Natural stupidity is fine, but you should still aspire to be better.
 
+- [ ] look up psyop tactics
+- [ ] look up manipulation tactics
+- [ ] figure out how to make tech to detect those
+- [ ] play further with these concepts
+
 ## I love my family
 
 They are just the best people to be around with.
@@ -282,3 +287,9 @@ said app. The data on those profiles usually contain alot of information about
 the user that the creator of said profile maybe did not intend to be public
 such as how much money they make, what their real education level is or 
 where they live.
+
+- [ ] check out hinge api
+- [ ] check out grindr api
+- [ ] check out tinder api
+- [ ] check out bumble api
+- [ ] figure out how to abuse each
