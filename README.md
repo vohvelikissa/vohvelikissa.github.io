@@ -293,3 +293,12 @@ where they live.
 - [ ] check out tinder api
 - [ ] check out bumble api
 - [ ] figure out how to abuse each
+
+# Investigations
+
+## hinge
+## grindr
+## tinder
+## bumble
+## psyop tactics
+## manipulation tactics
