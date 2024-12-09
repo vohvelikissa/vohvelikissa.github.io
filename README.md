@@ -36,7 +36,7 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 4/12 TBD
+#### 4/12 Sotaromaani - Väinö Linna (currently on page 0) 
 
 #### 3/12 The business of sharing - Alex Stephany 
 
@@ -90,6 +90,9 @@ This week probably will start real slow because of the independence day related
 activities that I have coming up. I apologise to myself for the inconvenience.
 
 #### Midway
+
+I barely did anything for a half of this weekly cycle because of the parties
+I just had to go to. I'm back to full speed until christmas now.
 
 #### Ending
 
