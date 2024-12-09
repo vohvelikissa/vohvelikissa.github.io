@@ -273,3 +273,12 @@ Natural stupidity is fine, but you should still aspire to be better.
 ## I love my family
 
 They are just the best people to be around with.
+
+## People should stop using dating applications
+
+Nearly all of the applications that have been created explicitly for people to
+try their luck on getting a date have public profiles for everyone that uses
+said app. The data on those profiles usually contain alot of information about
+the user that the creator of said profile maybe did not intend to be public
+such as how much money they make, what their real education level is or 
+where they live.
