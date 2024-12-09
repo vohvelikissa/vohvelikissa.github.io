@@ -298,36 +298,124 @@ where they live.
 
 ## hinge api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## grindr api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## tinder api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## bumble api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## psyop tactics
 ## manipulation tactics
 ## Just Park api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## uber api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## lyft api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## voi scooters api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## bird scooters api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## airbnb api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ## commu app api
 ### web app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
 ### mobile app
+- [ ] automate profile triangulation
+- [ ] automate api profiling
+- [ ] automate structure of app gathering
+- [ ] reverse engineer the thing with ai
