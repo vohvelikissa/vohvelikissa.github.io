@@ -36,7 +36,16 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 4/12 Sotaromaani - Väinö Linna (currently on page 0) 
+#### 4/12 Sotaromaani - Väinö Linna (currently on page 33)
+
+This edition of this book has the 1950s censorship round of deletions undone
+and marked in cursive. There was alot of details in the publishers notes 
+section of the book that were from page 0 to 33, but I didn't really care
+about reading them with that much thought into it. I trust that this really old
+physical book that I have right next to me is the best version of this book
+specifically that I am able to own right at this moment. If some other version
+turns out to be better I will check it out and note it here if I decide to 
+change from this print from the year 2000.
 
 #### 3/12 The business of sharing - Alex Stephany 
 
