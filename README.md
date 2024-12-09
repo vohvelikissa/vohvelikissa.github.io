@@ -296,9 +296,16 @@ where they live.
 
 # Investigations
 
-## hinge
-## grindr
-## tinder
-## bumble
+## hinge api
+## grindr api
+## tinder api
+## bumble api
 ## psyop tactics
 ## manipulation tactics
+## Just Park api
+## uber api
+## lyft api
+## voi scooters api
+## bird scooters api
+## airbnb api
+## commu app api
