@@ -107,6 +107,10 @@ I just had to go to. I'm back to full speed until christmas now.
 
 ### Goals
 
+- [ ] lookup google cloud services
+- [ ] lookup google quantum
+- [ ] lookup google willow
+
 ### Goals achieved
 
 ## 4.12.2024
@@ -307,6 +311,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## grindr api
 ### web app
 - [ ] automate profile triangulation
@@ -318,6 +323,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## tinder api
 ### web app
 - [ ] automate profile triangulation
@@ -329,6 +335,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## bumble api
 ### web app
 - [ ] automate profile triangulation
@@ -340,8 +347,10 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## psyop tactics
 ## manipulation tactics
+
 ## Just Park api
 ### web app
 - [ ] automate profile triangulation
@@ -353,6 +362,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## uber api
 ### web app
 - [ ] automate profile triangulation
@@ -364,6 +374,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## lyft api
 ### web app
 - [ ] automate profile triangulation
@@ -375,6 +386,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## voi scooters api
 ### web app
 - [ ] automate profile triangulation
@@ -386,6 +398,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## bird scooters api
 ### web app
 - [ ] automate profile triangulation
@@ -397,6 +410,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## airbnb api
 ### web app
 - [ ] automate profile triangulation
@@ -408,6 +422,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ## commu app api
 ### web app
 - [ ] automate profile triangulation
