@@ -105,11 +105,33 @@ I just had to go to. I'm back to full speed until christmas now.
 
 #### Ending
 
+This week was mostly spent on redefining my goals and partying
+
 ### Goals
 
-- [ ] lookup google cloud services
-- [ ] lookup google quantum
-- [ ] lookup google willow
+- [X] lookup google cloud services
+- [ ] look gc AI/ML
+- [ ] look gc Infrastructure
+- [ ] look gc Data and analytics
+- [ ] look gc Developer tools
+- [ ] look gc App development
+- [ ] look gc Integration services
+- [ ] look gc Management tools
+- [ ] look gc Security and identity
+- [ ] look gc web and app hosting
+- [ ] look gc productivity and collaboration
+- [ ] look gc industry
+- [X] lookup google quantum
+- [ ] look gq cirq
+- [ ] look gq qsim
+- [ ] look gq open fermion
+- [ ] look gq tensorflow quantum
+- [ ] look gq quantumlib
+- [ ] look gq stack exchange
+- [ ] look gq pennylane
+- [ ] look gq alpine quantum technologies
+- [ ] look gq pasqal
+- [X] lookup google willow
 
 ### Goals achieved
 
