@@ -470,3 +470,5 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
+# Projects
