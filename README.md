@@ -89,6 +89,20 @@ This book reflects a bit of sexism which I guess was just normal in the 1970s.
 On the first day of December 2024 this all feels nice and dandy and I want to 
 achieve all of my goals.
 
+## 18.12.2024
+
+### My feels during the week
+
+#### Beginning
+
+#### Midway
+
+#### Ending
+
+### Goals
+
+### Goals achieved
+
 ## 11.12.2024
 
 ### My feels during the week
