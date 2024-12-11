@@ -334,6 +334,21 @@ where they live.
 - [ ] check out bumble api
 - [ ] figure out how to abuse each
 
+## NixOS seems really interesting
+
+By installing nixos now I could maybe get rid of the mess that using ubuntu has
+left to my computer by not having a clear list of the packages that are installed
+not to mention that there is no clear all encompassing list of them. I cannot
+even know in a simple way what the fuck is on my computer. I want to have a 
+simple way to manage all of my packages.
+
+- [ ] download nixos iso
+- [ ] install said iso to a usb stick
+- [ ] install nixos
+- [ ] use nixos
+- [ ] configure nixos
+- [ ] use nixos
+
 # Investigations
 
 ## hinge api
@@ -342,6 +357,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -354,6 +370,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -366,6 +383,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -378,6 +396,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -393,6 +412,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -405,6 +425,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -417,6 +438,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -429,6 +451,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -441,6 +464,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -453,6 +477,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -465,6 +490,7 @@ where they live.
 - [ ] automate api profiling
 - [ ] automate structure of app gathering
 - [ ] reverse engineer the thing with ai
+
 ### mobile app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
