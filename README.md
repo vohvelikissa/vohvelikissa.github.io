@@ -350,6 +350,14 @@ api that their app uses
 
 - [ ] figure out how to abuse each
 
+Having this not transparent at all group of software makes me think that me 
+using the word "abuse" above this paragraph here is just incorrect. You cannot
+really abuse someone who is themselves an abuser (given that the "counter abuse"
+is proportional to the abuse that the abuser makes) and that is just the truth.
+It would be a global good to have these glorified silicon valley cocaine addicts
+be forced to publicly document their applications workings and be transparent
+about how our data is being used.
+
 ## NixOS seems really interesting
 
 By installing nixos now I could maybe get rid of the mess that using ubuntu has
