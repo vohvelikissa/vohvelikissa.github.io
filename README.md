@@ -370,6 +370,11 @@ so it better be good or I'll on bluesky where no one will ever read it.
 - [ ] install c/c++ essentials on nix
 - [ ] make the desktop environment be xfce4 on nix
 
+I do not really own a usb stick at this point that can hold nix so I guess I'll
+have to get one of those tomorrow.
+
+- [ ] buy a livebootable usb stick
+
 # Investigations
 
 ## hinge api
