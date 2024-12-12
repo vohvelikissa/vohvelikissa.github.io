@@ -36,7 +36,11 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 4/12 Sotaromaani - Väinö Linna (currently on page 33)
+#### 5/12 Psychological operations tactics techniques and procedures - Headquarters department of the army
+
+Reading this counts as me checking out and learning something about psyops
+
+#### 4/12 Sotaromaani - Väinö Linna 
 
 This edition of this book has the 1950s censorship round of deletions undone
 and marked in cursive. There was alot of details in the publishers notes 
@@ -310,7 +314,7 @@ you, namely: who, where, how, when and why.
 
 Natural stupidity is fine, but you should still aspire to be better.
 
-- [ ] look up psyop tactics
+- [X] look up psyop tactics
 - [ ] look up manipulation tactics
 - [ ] figure out how to make tech to detect those
 - [ ] play further with these concepts
