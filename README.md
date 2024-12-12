@@ -328,10 +328,26 @@ the user that the creator of said profile maybe did not intend to be public
 such as how much money they make, what their real education level is or 
 where they live.
 
-- [ ] check out hinge api
-- [ ] check out grindr api
-- [ ] check out tinder api
-- [ ] check out bumble api
+- [X] check out hinge api
+
+These anti-consumer pieces of shit do not have a public documentation of the
+api that their app uses
+
+- [X] check out grindr api
+
+These anti-consumer pieces of shit do not have a public documentation of the
+api that their app uses
+
+- [X] check out tinder api
+
+These anti-consumer pieces of shit do not have a public documentation of the
+api that their app uses
+
+- [X] check out bumble api
+
+These anti-consumer pieces of shit do not have a public documentation of the
+api that their app uses
+
 - [ ] figure out how to abuse each
 
 ## NixOS seems really interesting
@@ -524,3 +540,12 @@ have to get one of those tomorrow.
 - [ ] reverse engineer the thing with ai
 
 # Projects
+
+- [ ] reverse engineer hinge api
+- [ ] find someone elses implementation
+- [ ] reverse engineer grindr api
+- [ ] find someone elses implementation
+- [ ] reverse engineer tinder api
+- [ ] find someone elses implementation
+- [ ] reverse engineer bumble api
+- [ ] find someone elses implementation
