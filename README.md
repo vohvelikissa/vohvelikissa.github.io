@@ -36,7 +36,11 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
-#### 5/12 Psychological operations tactics techniques and procedures - Headquarters department of the army
+#### 6/12 Manipulation tactics - Texas university (NEXT)
+
+Reading this ocunts as me checking out and learning something about manipulation
+
+#### 5/12 Psychological operations tactics techniques and procedures - Headquarters department of the army (Page 0)
 
 Reading this counts as me checking out and learning something about psyops
 
@@ -315,7 +319,7 @@ you, namely: who, where, how, when and why.
 Natural stupidity is fine, but you should still aspire to be better.
 
 - [X] look up psyop tactics
-- [ ] look up manipulation tactics
+- [X] look up manipulation tactics
 - [ ] figure out how to make tech to detect those
 - [ ] play further with these concepts
 
