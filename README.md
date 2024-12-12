@@ -349,6 +349,27 @@ simple way to manage all of my packages.
 - [ ] configure nixos
 - [ ] use nixos
 
+### NixOS notes & skill issues
+
+I chose to start downloading the 64 bit intel/amd version of nixos with the
+Intel/AMD architechture. That on the very surface level fits my current comp
+very well. I really hope at this point that the installation process goes well
+and my life gets better over time with nixos. This might be a long shot and
+wishful thinking, but I got hyped enough to even contemplate installing nixos
+so it better be good or I'll on bluesky where no one will ever read it.
+
+- [ ] install nvim on nixos
+- [ ] make tokyonight the main colorscheme on anything nixos
+- [ ] make something lewd the desktop background for the memes and lulz
+- [ ] make wideboy Alyx the bash background
+- [ ] install android studio on nix
+- [ ] install discord on nix
+- [ ] install steam on nix
+- [ ] install nvm on nix
+- [ ] install mysql on nix
+- [ ] install c/c++ essentials on nix
+- [ ] make the desktop environment be xfce4 on nix
+
 # Investigations
 
 ## hinge api
