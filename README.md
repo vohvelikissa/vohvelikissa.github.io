@@ -342,7 +342,7 @@ not to mention that there is no clear all encompassing list of them. I cannot
 even know in a simple way what the fuck is on my computer. I want to have a 
 simple way to manage all of my packages.
 
-- [ ] download nixos iso
+- [X] download nixos iso
 - [ ] install said iso to a usb stick
 - [ ] install nixos
 - [ ] use nixos
