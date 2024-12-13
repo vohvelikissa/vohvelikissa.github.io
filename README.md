@@ -407,6 +407,14 @@ have to get one of those tomorrow.
 
 - [ ] buy a livebootable usb stick
 
+## You shouldn't be able to be in a position of power if you are very much out of touch with reality to the point where you think that homelessness doesn't exist and that people just choose to be poor and choose to live in really bad conditions
+
+Case in point: Elon "In most cases, the word "homeless" is a lie. It's usually a propaganda word for violent drug addicts with severe mental illness" Musk.
+
+- [ ] figure out how to just decompose the rich fast since they most propably are toxic enough to not be safe at all for anyone or anything to eat them and why would we let even the bugs of the earth to eat such toxic waste
+- [ ] read the communist manifesto
+- [ ] read on more alternative economic systems that have been thought of
+
 # Investigations
 
 ## hinge api
