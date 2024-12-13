@@ -475,6 +475,10 @@ Case in point: Elon "In most cases, the word "homeless" is a lie. It's usually a
 ## manipulation tactics
 
 ## Just Park api
+
+This app is not really in my country so I do not care about touching those 
+mediocre bytes of data that may or may not be in this app combination
+
 ### web app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
@@ -501,6 +505,10 @@ Case in point: Elon "In most cases, the word "homeless" is a lie. It's usually a
 - [ ] reverse engineer the thing with ai
 
 ## lyft api
+
+This app is not really in my country so I do not care about touching those 
+mediocre bytes of data that may or may not be in this app combination
+
 ### web app
 - [ ] automate profile triangulation
 - [ ] automate api profiling
