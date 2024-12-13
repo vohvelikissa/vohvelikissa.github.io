@@ -36,6 +36,8 @@ some really good family time on the first.
 
 ### Books that I have read (and what I learned)
 
+#### 7/12 communist manifesto (NEXT+1)
+
 #### 6/12 Manipulation tactics - Texas university (NEXT)
 
 Reading this ocunts as me checking out and learning something about manipulation
