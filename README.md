@@ -393,7 +393,7 @@ wishful thinking, but I got hyped enough to even contemplate installing nixos
 so it better be good or I'll on bluesky where no one will ever read it.
 
 - [X] install nvim on nixos
-- [ ] make tokyonight the main colorscheme on anything nixos
+- [X] make tokyonight the main colorscheme on anything nixos
 - [ ] make something lewd the desktop background for the memes and lulz
 - [X] make wideboy Alyx the bash background
 - [ ] install android studio on nix
@@ -410,6 +410,8 @@ have to get one of those tomorrow.
 - [X] buy a livebootable usb stick
 
 The process to get NixOS working was really god damn easy.
+
+I am no longer limited by the bounds of my body for I have become god.
 
 ## You shouldn't be able to be in a position of power if you are very much out of touch with reality to the point where you think that homelessness doesn't exist and that people just choose to be poor and choose to live in really bad conditions
 
