@@ -377,11 +377,11 @@ even know in a simple way what the fuck is on my computer. I want to have a
 simple way to manage all of my packages.
 
 - [X] download nixos iso
-- [ ] install said iso to a usb stick
-- [ ] install nixos
-- [ ] use nixos
-- [ ] configure nixos
-- [ ] use nixos
+- [X] install said iso to a usb stick
+- [X] install nixos
+- [X] use nixos
+- [X] configure nixos
+- [X] use nixos
 
 ### NixOS notes & skill issues
 
@@ -392,22 +392,24 @@ and my life gets better over time with nixos. This might be a long shot and
 wishful thinking, but I got hyped enough to even contemplate installing nixos
 so it better be good or I'll on bluesky where no one will ever read it.
 
-- [ ] install nvim on nixos
+- [X] install nvim on nixos
 - [ ] make tokyonight the main colorscheme on anything nixos
 - [ ] make something lewd the desktop background for the memes and lulz
-- [ ] make wideboy Alyx the bash background
+- [X] make wideboy Alyx the bash background
 - [ ] install android studio on nix
 - [ ] install discord on nix
 - [ ] install steam on nix
 - [ ] install nvm on nix
 - [ ] install mysql on nix
 - [ ] install c/c++ essentials on nix
-- [ ] make the desktop environment be xfce4 on nix
+- [X] make the desktop environment be xfce4 on nix
 
 I do not really own a usb stick at this point that can hold nix so I guess I'll
 have to get one of those tomorrow.
 
-- [ ] buy a livebootable usb stick
+- [X] buy a livebootable usb stick
+
+The process to get NixOS working was really god damn easy.
 
 ## You shouldn't be able to be in a position of power if you are very much out of touch with reality to the point where you think that homelessness doesn't exist and that people just choose to be poor and choose to live in really bad conditions
 
