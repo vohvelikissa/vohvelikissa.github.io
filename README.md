@@ -1,4 +1,4 @@
-# Personal blog or something
+# Dev blog
 
 ## My Profile
 
