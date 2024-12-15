@@ -60,6 +60,13 @@ be good.
 
 ## Blog
 
+### init
+
+Creating this website to be what it is now was relatively easy even if it required me being roasted by AI
+to get better in the process. From now on however I will just continue with this format because this looks
+like it will not just break on itself over time. This paragraph could have been a tweet instead of butchering
+the concept of blog post, but here we are. Bite me.
+
 ## Social Media
 
 - Instagram: vilppes
@@ -83,7 +90,7 @@ be good.
 - [X] add another one
 - [X] write one paragraph
 - [X] add blog section
-- [ ] write a blog post about creating this site
+- [X] write a blog post about creating this site
 - [X] add a social media section
 - [X] add instagram
 - [X] add github
