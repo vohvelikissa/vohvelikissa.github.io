@@ -34,6 +34,12 @@ In general I want to program things that people will actually use and not just i
 want to create value for the people to benefit from and additionally I want it to be lasting. The most dream-like
 situation for me would in all honesty be just that, being useful with my code
 
+## My Long Term Goals
+
+I would like to start a business for helping people with their bigger and more long term issues using technology.
+While everything probably cannot be fixed by using technology, I am sure something more could be done to benefit
+the struggles of normal every day working class people live their lives with more peace and well-being for them.
+
 ## My Goals
 
 My first goal is that I want to have my NixOS setup be having all of the packages that I originally listed here
