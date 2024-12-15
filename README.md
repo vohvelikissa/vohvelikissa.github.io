@@ -36,7 +36,13 @@ situation for me would in all honesty be just that, being useful with my code
 
 ## My Goals
 
-Insert my goals here
+My first goal is that I want to have my NixOS setup be having all of the packages that I originally listed here
+and those were gcc, g++, java, typescript, nodejs. I also wanted to have everything have the tokyonight colorscheme
+which is the coolest of them all btw. Also I want to have the dyslexia font to test if it is better or worse than
+this default font that came with this operating system / Linux Distro. Yeah, if I can get all of this done that
+would be great. I'll list another goal for myself once this is done
+
+- [ ] goal done
 
 ## My Projects
 
