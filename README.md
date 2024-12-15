@@ -52,6 +52,12 @@ would be great. I'll list another goal for myself once this is done
 
 ## My Projects
 
+### Brainfuck Interpreter
+
+I created a brainfuck interpreter using C with no special libraries at all whatsoever.
+
+- Github: vohvelikissa/brainfuckdeez
+
 ### Contrast Fixer for websites
 
 I created a thing that compares the contrast between two html elements with their background colors. I used the
