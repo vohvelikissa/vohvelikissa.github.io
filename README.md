@@ -42,11 +42,20 @@ which is the coolest of them all btw. Also I want to have the dyslexia font to t
 this default font that came with this operating system / Linux Distro. Yeah, if I can get all of this done that
 would be great. I'll list another goal for myself once this is done
 
-- [ ] goal done
+- [X] goal done
 
 ## My Projects
 
-Projects will be listed here over time
+### NixOS configuration
+
+- 15th of December 2024
+
+My goals for this project are pretty much defined in the first goal in the My Goals section. I'm pretty sure you can
+still pretty easily just look up and see what is said there. Having my desktop environment look beautiful is the
+alternative goal of all of this, not for me having the ability to farm karma in r/unixporn, but for me to have the
+ability to stare at my computer screen for hours. Damn it feels good to be a gangsta. Being nice and helping out with the bills
+
+- Github: no I am not going to publish my nix config
 
 ## My Articles
 
