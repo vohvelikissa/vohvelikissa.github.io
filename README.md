@@ -52,9 +52,17 @@ would be great. I'll list another goal for myself once this is done
 
 ## My Projects
 
-### NixOS configuration
+### Contrast Fixer for websites
 
-- 15th of December 2024
+I created a thing that compares the contrast between two html elements with their background colors. I used the
+W3C contrast checking tables in the WCAG tables to calculate what is the color that is the closest to the best
+possible color option for the said html elements without changing them too much at all whatsoever. The project
+was made with javascript and that's pretty much it. Just pure vanilla javascript with none of the modern bells
+and whistles that things like Node easily allow for. But hey it works so :D
+
+- Github: vohvelikissa/contfix
+
+### NixOS configuration
 
 My goals for this project are pretty much defined in the first goal in the My Goals section. I'm pretty sure you can
 still pretty easily just look up and see what is said there. Having my desktop environment look beautiful is the
