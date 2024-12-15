@@ -18,5 +18,5 @@ Articles will be linked here over time
 
 ## My Social Media
 
-Instagram: vilppes
-Discord: pannukissa
+- Instagram: vilppes
+- Discord: pannukissa
