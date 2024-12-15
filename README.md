@@ -12,3 +12,17 @@ MEAN (MongoDB, Express.js, Angularjs, Node.js) or WHATEVERTHEFUCK (Whatsapp API,
 haskell, emacs lisp, brainfuck). My version of Linux that I will be using will be NixOS because it is
 just the fucking best thing ever and no I am not falling to any kind of memes by saying this, I just
 have the same smart idea with the other Nix fans.
+
+Beyond having these very general goals that say nothing like learning a languages that is not specific
+I want to have things that are very closely related to me made by me. My goals have always been to
+have the rights of disabled people and peoples abilities to do just about anything protected. I'm not
+yet sure specifically how I could help those people and more with my programming projects, but I am
+for sure going to try and figure it out.
+
+# goals list for this blog or something
+
+- [ ] make the background of my NixOS system be something really nice
+- [ ] make the nvim installation that I have have transparent background
+- [ ] make nvim have the relative numbers and the numbers
+- [ ] make the colnumber line visible in nvim
+- [ ] make the colorscheme tokyonight in nvim
