@@ -73,6 +73,22 @@ the concept of blog post, but here we are. Bite me.
 - Linkedin: vilppes
 - Github: vohvelikissa
 
+## TODO (things that I really want to do)
+
+- [ ] create a youtube channel for some nearly lecture type videos that are almost like FireShip but not
+- [ ] insert a youtube video in this website and make it have its own section
+- [ ] make this whole entire website look like something that has any wow effect whatsoever and not cringe like it is now
+- [ ] make a thing that permanently reserves a IRC channel for me
+- [ ] program the funny pipes screensaver with c++
+- [ ] make the same thing with javascript
+- [ ] remake this website with as much react code as github pages allow for. If that is not much at all, figure out other hosting
+- [ ] backup this site to some other like neocities
+- [ ] make a youtube video about backing this shit up to atleast one other site
+- [ ] make a youtube video about creating a persistent IRC channel for myself
+- [ ] make a youtube video about the different versions of this website
+- [ ] make a youtube video about making the different versions of that screensaver
+- [ ] make a new list
+
 ## TODO (initial list)
 
 - [X] add personal profile section
