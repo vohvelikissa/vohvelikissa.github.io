@@ -60,6 +60,12 @@ be good.
 
 ## Blog
 
+Since in my case creating youtube videos would basically be the same as writing a blog post in terms
+of content value, youtube is not going to get a section of its own from my site, no matter where it
+is hosted. The videos that I will eventually get to posting will be posted in this section with a
+rank 3 title in md and a full paragraph of text before it. The content itself will be something
+tech related and or interesting and relevant to me otherwise.
+
 ### init
 
 Creating this website to be what it is now was relatively easy even if it required me being roasted by AI
@@ -72,10 +78,11 @@ the concept of blog post, but here we are. Bite me.
 - Instagram: vilppes
 - Linkedin: vilppes
 - Github: vohvelikissa
+- Youtube: @techyapping
 
 ## TODO (things that I really want to do)
 
-- [ ] create a youtube channel for some nearly lecture type videos that are almost like FireShip but not
+- [X] create a youtube channel for some nearly lecture type videos that are almost like FireShip but not
 - [ ] insert a youtube video in this website and make it have its own section
 - [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make this whole entire website look like something that has any wow effect whatsoever and not cringe like it is now
