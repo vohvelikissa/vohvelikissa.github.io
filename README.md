@@ -77,6 +77,7 @@ the concept of blog post, but here we are. Bite me.
 
 - [ ] create a youtube channel for some nearly lecture type videos that are almost like FireShip but not
 - [ ] insert a youtube video in this website and make it have its own section
+- [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make this whole entire website look like something that has any wow effect whatsoever and not cringe like it is now
 - [ ] make a thing that permanently reserves a IRC channel for me
 - [ ] program the funny pipes screensaver with c++
@@ -84,9 +85,13 @@ the concept of blog post, but here we are. Bite me.
 - [ ] remake this website with as much react code as github pages allow for. If that is not much at all, figure out other hosting
 - [ ] backup this site to some other like neocities
 - [ ] make a youtube video about backing this shit up to atleast one other site
+- [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make a youtube video about creating a persistent IRC channel for myself
+- [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make a youtube video about the different versions of this website
+- [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make a youtube video about making the different versions of that screensaver
+- [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make a new list
 
 ## TODO (initial list)
