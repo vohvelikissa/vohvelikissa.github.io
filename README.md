@@ -80,6 +80,12 @@ the concept of blog post, but here we are. Bite me.
 - Github: vohvelikissa
 - Youtube: @techyapping
 
+## TODO (the third list)
+
+- [ ] stream programming on twitch for atleast four hours
+- [ ] edit the vod
+- [ ] post instagram reels and youtube shorts from it
+
 ## TODO (things that I really want to do)
 
 - [X] create a youtube channel for some nearly lecture type videos that are almost like FireShip but not
