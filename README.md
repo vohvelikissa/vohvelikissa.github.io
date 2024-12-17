@@ -92,12 +92,6 @@ new Twitch.Embed("twitch-embed", {
 - Github: vohvelikissa
 - Youtube: @techyapping
 
-## TODO (the third list)
-
-- [ ] stream programming on twitch for atleast four hours
-- [ ] edit the vod
-- [ ] post instagram reels and youtube shorts from it
-
 ## TODO (things that I really want to do)
 
 - [X] create a youtube channel for some nearly lecture type videos that are almost like FireShip but not
@@ -118,26 +112,3 @@ new Twitch.Embed("twitch-embed", {
 - [ ] make a youtube video about making the different versions of that screensaver
 - [ ] write a paragraph of text about how making that youtube video felt and what you are going to do next
 - [ ] make a new list
-
-## TODO (initial list)
-
-- [X] add personal profile section
-- [X] write one paragraph
-- [X] add hobbies subsection
-- [X] write one paragraph
-- [X] add interests subsection
-- [X] write one paragraph
-- [X] add volunteering subsection
-- [X] write one paragraph
-- [X] add projects section
-- [X] write one paragraph
-- [X] add one of the previous projects
-- [X] write one paragraph
-- [X] add another one
-- [X] write one paragraph
-- [X] add blog section
-- [X] write a blog post about creating this site
-- [X] add a social media section
-- [X] add instagram
-- [X] add github
-- [X] add linkedin
