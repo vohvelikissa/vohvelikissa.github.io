@@ -73,6 +73,18 @@ to get better in the process. From now on however I will just continue with this
 like it will not just break on itself over time. This paragraph could have been a tweet instead of butchering
 the concept of blog post, but here we are. Bite me.
 
+### Twitch stream
+
+<div id="twitch-embed"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script type="text/javascript">
+new Twitch.Embed("twitch-embed", {
+    width: 854,
+    height: 480,
+    channel: "bashdoggo"
+});
+</script>
+
 ## Social Media
 
 - Instagram: vilppes
