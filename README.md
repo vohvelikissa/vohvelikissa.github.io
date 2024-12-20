@@ -3,6 +3,15 @@
 ## fps controlled fully with keyboard
 
 - [X] make a plan to make this thing
+
+My current plan is to make a very basic shooter game that has only the bare minimum like:
+
+- [ ] character to control
+- [ ] map
+- [ ] ability to shoot
+- [ ] ability to walk around
+- [ ] ability to rotate the camera
+
 - [ ] make a game design document for this game
 - [ ] write the story for this game
 - [ ] create the graphics for this game
