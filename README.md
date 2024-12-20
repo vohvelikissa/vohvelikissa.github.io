@@ -2,25 +2,44 @@
 
 ## fps controlled fully with keyboard
 
-- [ ] make a plan to make this thing
+- [X] make a plan to make this thing
+- [ ] make a game design document for this game
+- [ ] write the story for this game
+- [ ] create the graphics for this game
+- [ ] create the sound effects for this game
+- [ ] create the code for this game
+- [ ] create a built version for this game
 - [ ] youtube demo for this
 - [ ] a plan to host it somewhere
 
 ## ai powered npc to that fps game
 
-- [ ] make a plan to make this thing
+- [X] make a plan to make this thing
+- [ ] write the story for this npc 
+- [ ] create the graphics for this npc
+- [ ] create the sound effects for this npc
+- [ ] create the code for this npc
+- [ ] build this npc
 - [ ] youtube demo for this
 - [ ] a plan to host it somewhere
 
 ## minecraft mod
 
-- [ ] make a plan to make this thing
+- [X] make a plan to make this thing
+- [ ] figure out what is the way to make a minecraft mod
+- [ ] create a mob with those techniques
+- [ ] make the mob be the mob that I created to the other game
+- [ ] build this
 - [ ] youtube demo for this
 - [ ] a plan to host it somewhere
 
 ## half-life 2 mod
 
-- [ ] make a plan to make this thing
+- [X] make a plan to make this thing
+- [ ] figure out what is the way to make a mod
+- [ ] create a mob with those techniques
+- [ ] make the mob be the mob that I created to the other game
+- [ ] build this
 - [ ] youtube demo for this
 - [ ] a plan to host it somewhere
 
@@ -39,5 +58,6 @@
 ## LAN multiplayer to that fps game
 
 - [ ] make a plan to make this thing
+- [ ] figure out how to make that game above multiplayer
 - [ ] youtube demo for this
 - [ ] a plan to host it somewhere
