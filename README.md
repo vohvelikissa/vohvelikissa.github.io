@@ -1,3 +1,14 @@
+# Who the fuck am I?
+
+I am just a friendly neighborhood software developer who plans to do everything that they want
+to create.
+
+- Name: Pessi
+- Age: Nope not going to tell you
+- Discord: pannukissa
+- Instagram: vilppes
+- Nationality: finnish
+
 # What I want to make
 
 ## fps controlled fully with keyboard
