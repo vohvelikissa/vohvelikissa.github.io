@@ -21,3 +21,9 @@ know what it is that I am going to do.
 ## google cloud thing
 ## hostable web app
 ## lan multiplayer to that fps game
+
+# Dev log
+
+20.12.2024 - I created this current format for this site and planned something for what it is that
+I am going to do in the next year. The plans are not really very concrete at this point, but the 
+very abstract outlines are in there right now too.
