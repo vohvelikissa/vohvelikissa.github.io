@@ -1,43 +1,43 @@
 # What I want to make
 
-- [ ] fps game that is controlled fully on a keyboard
-
 ## fps controlled fully with keyboard
 
 - [ ] make a plan to make this thing
-
-- [ ] ai powered npc to that game
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
 
 ## ai powered npc to that fps game
 
 - [ ] make a plan to make this thing
-
-- [ ] minecraft mod
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
 
 ## minecraft mod
 
 - [ ] make a plan to make this thing
-
-- [ ] half-life 2 mod
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
 
 ## half-life 2 mod
 
 - [ ] make a plan to make this thing
-
-- [ ] google cloud thing
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
 
 ## google cloud thing
 
 - [ ] make a plan to make this thing
-
-- [ ] hostable web app
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
 
 ## hostable web app
 
 - [ ] make a plan to make this thing
-
-- [ ] LAN multiplayer to that fps game
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
 
 ## LAN multiplayer to that fps game
 
 - [ ] make a plan to make this thing
+- [ ] youtube demo for this
+- [ ] a plan to host it somewhere
