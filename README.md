@@ -1,5 +1,73 @@
 # Nested todo list for what it is that I am trying to achieve
 
+## Keyboard only FPS game
+
+### Description
+
+### Todo list
+
+### Youtube showcase of this project
+
+### What I want to make after this
+
+## AI agent powered NPC
+
+### Description
+
+### Todo list
+
+### What I want to make after this
+
+## Minecraft mod
+
+### Description
+
+### Todo list
+
+### Youtube showcase of this project
+
+### What I want to make after this
+
+## half-life 2 mod
+
+### Description
+
+### Todo list
+
+### Youtube showcase of this project
+
+### What I want to make after this
+
+## a thing that uses google cloud
+
+### Description
+
+### Todo list
+
+### Youtube showcase of this project
+
+### What I want to make after this
+
+## hostable web app
+
+### Description
+
+### Todo list
+
+### Youtube schowcase of this project
+
+### What I want to make after this
+
+## LAN multiplayer game
+
+### Description
+
+### Todo list
+
+### Youtube showcase of this project
+
+### What I want to make after this
+
 ## What I want to do in 2025 presented as a todo list creating prompts for my self that are also in a md checkbox style presentation
 
 - [ ] create a checklist for creating a first person shooter that can only be controlled with a keyboard (QWEASDZXC + space movements)
