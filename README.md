@@ -28,6 +28,18 @@ My current plan is to make a very basic shooter game that has only the bare mini
 ## ai powered npc to that fps game
 
 - [X] make a plan to make this thing
+
+### the plan
+
+My plan is to basically make myself to the games that I have created or am planning to mod
+
+- [ ] my likeness
+- [ ] graphics
+- [ ] code
+- [ ] sound
+
+### the rest of this project
+
 - [ ] write the story for this npc 
 - [ ] create the graphics for this npc
 - [ ] create the sound effects for this npc
