@@ -5,7 +5,6 @@ things are mostly games, but they are also web services and things that use arti
 intelligence in some way. I think I will get through the list that I will soon list 
 below in the very early 2025, but I do not yet know what in the specific ways 
 know what it is that I am going to do.
-
 - [ ] fps game
 - [ ] ai npc
 - [ ] hl2 mod
@@ -15,6 +14,11 @@ know what it is that I am going to do.
 - [ ] lan multiplayer to the fps game on the top of this list
 
 ## fps game
+
+I would like to make this be some kind of retro game style graphics having thing
+not much unlike the thing that I saw in the game dev club gala for my local club.
+I want the game to be controlled with qweasdzxc and space bar.
+
 ## ai npc
 ## hl2 mod
 ## minecraft mod
@@ -27,3 +31,5 @@ know what it is that I am going to do.
 20.12.2024 - I created this current format for this site and planned something for what it is that
 I am going to do in the next year. The plans are not really very concrete at this point, but the 
 very abstract outlines are in there right now too.
+
+21.12.2024 - wrote my quick thoughts about what I want to make the fps game be like
