@@ -19,6 +19,20 @@ I would like to make this be some kind of retro game style graphics having thing
 not much unlike the thing that I saw in the game dev club gala for my local club.
 I want the game to be controlled with qweasdzxc and space bar.
 
+- [ ] create a graphics window
+- [ ] make a simple 3d scene with a plane
+- [ ] q
+- [ ] w
+- [ ] e
+- [ ] a
+- [ ] s
+- [ ] d
+- [ ] z
+- [ ] x
+- [ ] c
+- [ ] write a super simple story for the game
+- [ ] replace the plane with something slightly more advanced
+
 ## ai npc
 ## hl2 mod
 ## minecraft mod
@@ -32,4 +46,6 @@ I want the game to be controlled with qweasdzxc and space bar.
 I am going to do in the next year. The plans are not really very concrete at this point, but the 
 very abstract outlines are in there right now too.
 
-21.12.2024 - wrote my quick thoughts about what I want to make the fps game be like
+21.12.2024 - wrote my quick thoughts about what I want to make the fps game be like. Listed down
+some things that must be done in order to make the game have even the slightest chances of happening.
+Cannot wait to actually have the playable game.
