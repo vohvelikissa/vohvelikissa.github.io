@@ -27,3 +27,4 @@ I like creating new things.
 - Created a section for general profession specific stats
 - Created a section for work related reasonable takes
 - Formatted this list a bit better
+- added my first line to my from scratch nvim setup (it's a print)
