@@ -29,3 +29,4 @@ I like creating new things.
 - Formatted this list a bit better
 - added my first line to my from scratch nvim setup (it's a print)
 - added nvim colorcolumn to the position 80
+- also made that be in position 40
