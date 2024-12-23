@@ -21,8 +21,9 @@ I like creating new things.
 
 # Action Log
 
-23.12.2024 - Created the current form of this site
+## 23.12.2024
 
-23.12.2024 - Created a section for general profession specific stats
-
-23.12.2024 - Created a section for work related reasonable takes
+- Created the current form of this site
+- Created a section for general profession specific stats
+- Created a section for work related reasonable takes
+- Formatted this list a bit better
