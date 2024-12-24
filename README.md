@@ -37,3 +37,6 @@ I like creating new things.
 - installed folke/tokyonight
 - set tokyonight-storm as the colorscheme that I use
 - made the background of my nvim transparent to see the Alyx background image at all times
+- installed the statusline called barbecue because it looks quite nice
+- installed the galaxyline statusbar to nvim
+- installed all the dependencies to the above packages too
