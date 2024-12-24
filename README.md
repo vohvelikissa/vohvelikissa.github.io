@@ -41,3 +41,4 @@ I like creating new things.
 - installed the galaxyline statusbar to nvim
 - installed all the dependencies to the above packages too
 - created the same lock screen shortcut that windows has (win+l) and removed the nixos default
+- deleted the exo-open, orca and thunar opening shortcuts
