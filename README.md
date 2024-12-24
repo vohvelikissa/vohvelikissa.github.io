@@ -30,3 +30,7 @@ I like creating new things.
 - added my first line to my from scratch nvim setup (it's a print)
 - added nvim colorcolumn to the position 80
 - also made that be in position 40
+
+## 24.12.2024
+
+- installed lewis6991/pckr.nvim
