@@ -19,6 +19,10 @@
 
 I like creating new things.
 
+# A picture to show you approximately what my screen looks like right now
+
+<img src="./desktop241224.png" width="70%" height="auto">
+
 # Action Log
 
 ## 23.12.2024
