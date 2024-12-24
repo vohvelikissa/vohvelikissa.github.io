@@ -36,3 +36,4 @@ I like creating new things.
 - installed lewis6991/pckr.nvim
 - installed folke/tokyonight
 - set tokyonight-storm as the colorscheme that I use
+- made the background of my nvim transparent to see the Alyx background image at all times
