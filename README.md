@@ -34,3 +34,5 @@ I like creating new things.
 ## 24.12.2024
 
 - installed lewis6991/pckr.nvim
+- installed folke/tokyonight
+- set tokyonight-storm as the colorscheme that I use
