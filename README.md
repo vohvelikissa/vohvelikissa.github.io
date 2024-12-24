@@ -40,3 +40,4 @@ I like creating new things.
 - installed the statusline called barbecue because it looks quite nice
 - installed the galaxyline statusbar to nvim
 - installed all the dependencies to the above packages too
+- created the same lock screen shortcut that windows has (win+l) and removed the nixos default
