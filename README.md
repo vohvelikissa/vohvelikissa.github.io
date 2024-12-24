@@ -48,3 +48,4 @@ I like creating new things.
 - deleted the exo-open, orca and thunar opening shortcuts
 - created a section for giving the viewer a feel to what my experience looks like
 - installed williamboman/mason.nvim
+- made the cursor size massive for the lulz
