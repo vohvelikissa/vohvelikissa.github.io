@@ -53,3 +53,4 @@ I like creating new things.
 ## 25.12.2024
 
 - Had myself a merry little christmas
+- installed emacs
