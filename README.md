@@ -49,3 +49,7 @@ I like creating new things.
 - created a section for giving the viewer a feel to what my experience looks like
 - installed williamboman/mason.nvim
 - made the cursor size massive for the lulz
+
+## 25.12.2024
+
+- Had myself a merry little christmas
