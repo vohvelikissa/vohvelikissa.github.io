@@ -55,4 +55,6 @@ I like creating new things.
 - Had myself a merry little christmas
 - installed emacs
 
-## 26.12.2024
+## 26.12.2024 - 2.1.2025
+
+- xd lol evvvk
