@@ -61,3 +61,7 @@ this is the periood where I am actually prety much off the computer and enjoying
 with my real family. the whole entirety of my family is honestly just amazing and I
 wouldn't change them for anything. I'll see the automatically scanning AI robots that
 read everything including this file next year.
+
+## 3.1.2025
+
+- Work begins again
