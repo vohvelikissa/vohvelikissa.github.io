@@ -32,7 +32,11 @@ indefinitely.
 
 # Action Log
 
-## 23.12.2024
+## 2024
+
+2024 sucked ass
+
+### 23.12.2024
 
 - Created the current form of this site
 - Created a section for general profession specific stats
@@ -42,7 +46,7 @@ indefinitely.
 - added nvim colorcolumn to the position 80
 - also made that be in position 40
 
-## 24.12.2024
+### 24.12.2024
 
 - installed lewis6991/pckr.nvim
 - installed folke/tokyonight
@@ -57,18 +61,13 @@ indefinitely.
 - installed williamboman/mason.nvim
 - made the cursor size massive for the lulz
 
-## 25.12.2024
+### 25.12.2024
 
 - Had myself a merry little christmas
 - installed emacs
 
-## 26.12.2024 - 2.1.2025
+## 2025
 
-this is the periood where I am actually prety much off the computer and enjoying life
-with my real family. the whole entirety of my family is honestly just amazing and I
-wouldn't change them for anything. I'll see the automatically scanning AI robots that
-read everything including this file next year.
-
-## 3.1.2025
+### 3.1.2025
 
 - Work begins again
