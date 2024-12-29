@@ -19,6 +19,13 @@
 
 I like creating new things.
 
+I really hope that I have time to create more silly stuff someday of my life. Now
+basically all that I am equipped to do time wise is the very basics although to be
+fair I don't really even have the money to create the most exciting things out there.
+Time will tell me if the entrepreneurial activities that I am planning to get into
+soon will pay off in a big enough way that I can then continue to do whatever 
+indefinitely.
+
 # A picture to show you approximately what my screen looks like right now
 
 <img src="./terminal241224.png" width="70%" height="auto">
