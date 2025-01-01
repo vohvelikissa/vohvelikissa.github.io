@@ -5,12 +5,21 @@
 - [ ] write a summary of me
 - [ ] list skills
 - [ ] make a sales pitch for employment
+- [ ] list social media
 
 ## Projects
 
-- [ ] make a subsection for gamedev
-- [ ] make a subsection for webdev
-- [ ] make a subsection for other/embedded
+### Game Dev
+
+- [ ] create a presentation format for these kinds of projects
+
+### web dev
+
+- [ ] create a presentation format for these kinds of projects
+
+### other / embedded
+
+- [ ] create a presentation format for these kinds of projects
 
 ## Dev log
 
