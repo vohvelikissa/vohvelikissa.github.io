@@ -57,7 +57,11 @@ c++, html, css, talking to people, having common sense, ...
 - pull requests created: None
 - code reviews: None
 
-- [ ] make a section for the funny
+### The funny
+
+#### 2025
+
+- Made people laugh >1 times
 
 ## Blog
 
