@@ -43,7 +43,7 @@ c++, html, css, talking to people, having common sense, ...
 
 ### other / embedded
 
-#### presentation format for web dev projects
+#### presentation format for dev projects
 
 - name
 - contributors
