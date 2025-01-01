@@ -19,7 +19,15 @@ c++, html, css, talking to people, having common sense, ...
 
 ### Game Dev
 
-- [ ] create a presentation format for these kinds of projects
+#### presentation format for games
+
+- name
+- contributors
+- link to the game design document
+- link to the github
+- link to the gameplay video
+- last commit date
+- date the project was started
 
 ### web dev
 
