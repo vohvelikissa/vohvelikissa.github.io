@@ -46,6 +46,7 @@ c++, html, css, talking to people, having common sense, ...
 - Maximum used weight: 0 kg
 - Longest distance run: 0 km
 - Longest distance walk: 0 km
+- Total distance for both: 0 km
 
 ### Development work
 
