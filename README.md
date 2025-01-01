@@ -31,11 +31,27 @@ c++, html, css, talking to people, having common sense, ...
 
 ### web dev
 
-- [ ] create a presentation format for these kinds of projects
+#### presentation format for web dev projects
+
+- name
+- contributors
+- link to the design document(s)
+- link to the github
+- link to the video presentation
+- last commit date
+- date the project was started
 
 ### other / embedded
 
-- [ ] create a presentation format for these kinds of projects
+#### presentation format for web dev projects
+
+- name
+- contributors
+- link to the design document(s)
+- link to the github
+- link to the video presentation
+- last commit date
+- date the project was started
 
 ## Dev log
 
