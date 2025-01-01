@@ -37,8 +37,26 @@ c++, html, css, talking to people, having common sense, ...
 
 ## Statistics
 
-- [ ] make a section for gym activities
-- [ ] make a section for development work
+### Gym activities
+
+#### 2025
+
+- Times at the gym: 0
+- Times walked/runned for training: 0
+- Maximum used weight: 0 kg
+- Longest distance run: 0 km
+- Longest distance walk: 0 km
+
+### Development work
+
+#### 2025
+
+- commits: 0
+- projects started: 0
+- projects committed to: None
+- pull requests created: None
+- code reviews: None
+
 - [ ] make a section for the funny
 
 ## Blog
