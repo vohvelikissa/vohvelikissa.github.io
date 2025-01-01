@@ -2,10 +2,18 @@
 
 ## Personality
 
-- [ ] write a summary of me
-- [ ] list skills
-- [ ] make a sales pitch for employment
-- [ ] list social media
+I am Software Engineer who is really interested in open source software and I really
+think that there is just not enough of it even now where Linux is basically king
+on every computer out there that matters. I don't know how yet, but I find trying
+to make freedom respecting software a functional business model a really intriguing
+iddea and or concept. My 2025 will have me attempt to start a business.
+
+My skills include but are not limited to: React, Typescript, java, javascript, c
+c++, html, css, talking to people, having common sense, ...
+
+- Discord: pannukissa
+- Linkedin: vilppes
+- instagram: vilppes
 
 ## Projects
 
