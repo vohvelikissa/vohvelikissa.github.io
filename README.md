@@ -8,10 +8,6 @@ influenced by her being trans in a time where it was not very accepted at all
 whatsoever I am going to take that sentence in the bottom line of that article
 out of context and from her of all people because she was and is very inspiring.
 
-- [ ] write a paragraph on what I have done for trans people around me
-- [ ] make a todo list for projects that my trans friends could like
-- [ ] write a paragraph on why I care on each
-- [ ] the same on what I learned
 
 The future where I want to live has people actually accept each other as they are
 and agree on the fact that while they may disagree on many if not all things, they
@@ -21,7 +17,17 @@ maybe this is the site where I will update things below this paragraph of text a
 I accomplish things most likely with help of a lot of other atleast equally important
 people.
 
-- [ ] specify more
+The future that I am after would have people be less stupid with their usage of tech
+and more mindful of how they use their time. I personally have just decided that 
+what want to have my contact to real world look like is very much like this text
+file right here. Vim, irssi and many other terminal programs that I use all working
+together beautifully with tmux to bring me pretty much everything that I want.
+
+I know that other pople might not enjoy what I enjoy and I believe it shows in what
+I do very much because I believe less than a percent of computer users world wide
+use NixOS and the software bundles that I have grown to love over the years. I
+do not yet know if the why in not so many use these software is really that people
+just do not know how to overcome the perceived difficulty of these things.
 
 My personal special area of knowledge that could maybe be used to make peoples lives
 better is in information technology and in accessibility. I find it nearly crotesque
@@ -31,9 +37,6 @@ products and infrastructure. While I do not yet hold a certificate for accessibl
 design I have still done more for accessibility than the major websites of the world
 who are laughably bad at making their designs accessible or even readable for people
 with different conditions.
-
-- [ ] create a todo list on projects that help on things that are needed now
-- [ ] google github repositories that work on assistive products
 
 The writing of this site will have me drop checkboxes in this md file that have tasks
 that I have assigned for me to do to make this site more informative of the progress
