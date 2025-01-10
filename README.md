@@ -130,22 +130,52 @@
 - [ ] read chapter
 - [ ] read chapter
 <hr>
-- [ ] read tpp.txt
-- [ ] read patch-format.html
-- [ ] read stable-api-nonsense
-- [ ] read security bugs
-- [ ] read management style
-- [ ] read stable-kernel-rules
-- [ ] read kernel-docs
-- [ ] read applying-patches
-- [ ] read tpp.txt
-- [ ] read patch-format.html
-- [ ] read stable-api-nonsense
-- [ ] read security bugs
-- [ ] read management style
-- [ ] read stable-kernel-rules
-- [ ] read kernel-docs
-- [ ] read applying-patches
+- [X] read tpp.txt
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read stable-api-nonsense
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read security bugs
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read management style
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read stable-kernel-rules
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read kernel-docs
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
 - [ ] go to kernelnewbies.org
 - [ ] go to kernelnewbies.org/kerneljanitors
 - [ ] go to lxr.free-electrons.com
