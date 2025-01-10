@@ -106,7 +106,24 @@
 - [ ] read inline assembly
 - [ ] read conditional compilation
 <hr>
-- [ ] read submitting-patches.rst
+- [X] read submitting-patches.rst
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
 - [ ] read submitting-drivers.rst
 - [ ] read tpp.txt
 - [ ] read patch-format.html
