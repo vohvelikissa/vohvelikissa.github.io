@@ -84,7 +84,28 @@
 - [ ] read networking
 - [ ] read getting updated software
 <hr>
-- [ ] read coding-style.rst
+- [X] read coding-style.rst
+- [ ] read indentation
+- [ ] read breaking long lines and strings
+- [ ] read placing braces and spaces
+- [ ] read naming
+- [ ] read typedefs
+- [ ] read functions
+- [ ] read centralized exiting of functions
+- [ ] read commenting
+- [ ] read you've made mess of it
+- [ ] read kconfig configuration files
+- [ ] read data structures
+- [ ] read macros, enums and rtl
+- [ ] read printing kernel messages
+- [ ] read allocating memory
+- [ ] read the inline disease
+- [ ] read function return values and names
+- [ ] read dont re-invent kernel macros
+- [ ] read editor modelines and other cruft
+- [ ] read inline assembly
+- [ ] read conditional compilation
+<hr>
 - [ ] read submitting-patches.rst
 - [ ] read submitting-drivers.rst
 - [ ] read tpp.txt
