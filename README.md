@@ -281,22 +281,74 @@
 - [ ] read chapter
 - [ ] read chapter
 <hr>
-- [ ] read nix.dev guides recipes
-- [ ] read best practices
-- [ ] read troubleshooting
-- [ ] read frequently asked questions
-- [ ] read nix.dev reference glossary
-- [ ] read nix reference manual
-- [ ] read nixpgkgs manual
-- [ ] read nixos manual
-- [ ] read commmunity projects
-- [ ] read support tools
-- [ ] read further reading
-- [ ] read pinning nixpkgs
-- [ ] read nix.dev concepts flakes
-- [ ] read frequently asked questions
-- [ ] check out nvim-lua/plenary.nvim telescope
-- [ ] check out burnsushi/ripgrep
+- [X] read nix.dev guides recipes
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read best practices
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read troubleshooting
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read frequently asked questions
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read further reading
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read pinning nixpkgs
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read nix.dev concepts flakes
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read frequently asked questions
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] check out nvim-lua/plenary.nvim telescope
+- [ ] clone
+- [ ] read 
+- [ ] install
+<hr>
+- [X] check out burnsushi/ripgrep
+- [ ] clone
+- [ ] read
+- [ ] install
+<hr>
 - [ ] check out telescope-fzf-native.nvim
 - [ ] check out extensions wiki
 - [ ] check out sharkdp/fd
