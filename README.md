@@ -1,0 +1,138 @@
+# todo
+
+- [ ] read the intro for "The C programming language"
+- [ ] read the intro for "Practical c programming"
+- [ ] read the intro for "C: A reference manual"
+- [ ] check out the c89 standard
+- [ ] check out SPDX
+- [ ] check out the linux kernel license rules
+- [ ] check out the common questions of GPL
+- [ ] read readme
+- [ ] read changes.rst
+- [ ] read coding-style.rst
+- [ ] read submitting-patches.rst
+- [ ] read submitting-drivers.rst
+- [ ] read tpp.txt
+- [ ] read patch-format.html
+- [ ] read stable-api-nonsense
+- [ ] read security bugs
+- [ ] read management style
+- [ ] read stable-kernel-rules
+- [ ] read kernel-docs
+- [ ] read applying-patches
+- [ ] read tpp.txt
+- [ ] read patch-format.html
+- [ ] read stable-api-nonsense
+- [ ] read security bugs
+- [ ] read management style
+- [ ] read stable-kernel-rules
+- [ ] read kernel-docs
+- [ ] read applying-patches
+- [ ] go to kernelnewbies.org
+- [ ] go to kernelnewbies.org/kerneljanitors
+- [ ] go to lxr.free-electrons.com
+- [ ] go to git-scm.com
+- [ ] go to bugzilla.kernel.org
+- [ ] fix a kernel bug
+- [ ] go to vger.kernel.org/vger-lists.html
+- [ ] go to dir.gmane.org/gmane.linux.kernel
+- [ ] go to albion.com/netiquette
+- [ ] read nix.dev tutorials first steps
+- [ ] read nix language basics
+- [ ] read packaging existing software
+- [ ] read package parameters and overrides with callpackage
+- [ ] read working with local files
+- [ ] read cross compilation
+- [ ] read module system
+- [ ] read nixos
+- [ ] read nix.dev guides recipes
+- [ ] read best practices
+- [ ] read troubleshooting
+- [ ] read frequently asked questions
+- [ ] read nix.dev reference glossary
+- [ ] read nix reference manual
+- [ ] read nixpgkgs manual
+- [ ] read nixos manual
+- [ ] read commmunity projects
+- [ ] read support tools
+- [ ] read further reading
+- [ ] read pinning nixpkgs
+- [ ] read nix.dev concepts flakes
+- [ ] read frequently asked questions
+- [ ] check out nvim-lua/plenary.nvim telescope
+- [ ] check out burnsushi/ripgrep
+- [ ] check out telescope-fzf-native.nvim
+- [ ] check out extensions wiki
+- [ ] check out sharkdp/fd
+- [ ] check out nvim-treesitter/nvim-treesitter
+- [ ] check out neovim LSP
+- [ ] check out devicons
+- [ ] try the command :Telescope
+- [ ] check out builtin pickers
+- [ ] check out configuration recipes
+- [ ] read vscode the repository
+- [ ] read contributing
+- [ ] read feedback
+- [ ] read related projects
+- [ ] read bundled extensions
+- [ ] read development container
+- [ ] read semantic-kernel overview
+- [ ] read getting started
+- [ ] read learning how to use
+- [ ] read join the community
+- [ ] man colrm
+- [ ] man ls
+- [ ] man paste
+- [ ] man sort
+- [ ] man cmp
+- [ ] man diff
+- [ ] man find
+- [ ] man perl
+- [ ] man sed
+- [ ] man xargs
+- [ ] man read
+- [ ] man pcre2
+- [ ] man terminfo
+- [ ] man regex
+- [ ] read building rlottie
+- [ ] read demo
+- [ ] read previewing json files
+- [ ] read quick start
+- [ ] read dynamic property
+- [ ] read supported after effects features
+- [ ] read issues or feature requests
+- [ ] read one goal
+- [ ] read getting started
+- [ ] read how to contact
+- [ ] read jalangi2 introduction
+- [ ] read installation
+- [ ] read requirements
+- [ ] read usage
+- [ ] read kapa ai product answer engine
+- [ ] read deployment option
+- [ ] read data source connections
+- [ ] read analytics
+- [ ] read kapa ai solutions website & documentation
+- [ ] read community engagement
+- [ ] read customer support
+- [ ] read workplace assistant
+- [ ] read kapa ai resources blog
+- [ ] read company
+- [ ] read careers
+- [ ] read podcast
+- [ ] create a thing that uses chatgpt agent api
+- [ ] check out purescript
+- [ ] checkout nix home manager
+- [ ] read nix for frontend developers official docs
+- [ ] read youtube videos on nix
+- [ ] read nix commands through use cases
+- [ ] read a tour of nix
+- [ ] read home manager manual 
+- [ ] read node with nix
+- [ ] join the discord channel
+- [ ] kvg t-diagram
+- [ ] kvg bootstrapping
+- [ ] kvg programming timezones
+- [ ] kvg how does the linux clock work
+- [ ] kvg leap second google
+- [ ] watch llvm fireship
