@@ -61,11 +61,22 @@
 - [ ] read chapter
 - [ ] read chapter
 <hr>
-- [ ] check out the c89 standard
-- [ ] check out SPDX
-- [ ] check out the linux kernel license rules
-- [ ] check out the common questions of GPL
-- [ ] read readme
+- [X] check out SPDX
+- [ ] read learn
+- [ ] read use
+- [ ] read tools
+<hr>
+- [X] read readme
+- [ ] read what is linux
+- [ ] read on what hardware does it run
+- [ ] read documentation
+- [ ] read installing kernel source
+- [ ] read software requirements
+- [ ] read build directory for the kernel
+- [ ] read configuring the kernel
+- [ ] read compiling the kernel
+- [ ] read if something goes wrong
+<hr>
 - [ ] read changes.rst
 - [ ] read coding-style.rst
 - [ ] read submitting-patches.rst
