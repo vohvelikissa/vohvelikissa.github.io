@@ -210,14 +210,77 @@
 - [ ] read requesting list hosting
 - [ ] read contacts
 <hr>
-- [ ] read nix.dev tutorials first steps
-- [ ] read nix language basics
-- [ ] read packaging existing software
-- [ ] read package parameters and overrides with callpackage
-- [ ] read working with local files
-- [ ] read cross compilation
-- [ ] read module system
-- [ ] read nixos
+- [X] read nix.dev tutorials first steps
+- [ ] read ad hoc shell environments
+- [ ] read reproduciple interpreted scripts
+- [ ] read declarative shell environments
+- [ ] read towards repro
+<hr>
+- [X] read nix language basics
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read packaging existing software
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read package parameters and overrides with callpackage
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read working with local files
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read cross compilation
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
+- [X] read module system
+- [ ] read 1
+- [ ] read 2
+<hr>
+- [X] read nixos
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
 - [ ] read nix.dev guides recipes
 - [ ] read best practices
 - [ ] read troubleshooting
