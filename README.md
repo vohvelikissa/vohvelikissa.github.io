@@ -1,6 +1,15 @@
 # todo
 
-- [ ] read the intro for "The C programming language"
+- [X] read the intro for "The C programming language"
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
 - [ ] read the intro for "Practical c programming"
 - [ ] read the intro for "C: A reference manual"
 - [ ] check out the c89 standard
