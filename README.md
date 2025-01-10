@@ -124,7 +124,12 @@
 - [ ] read chapter
 - [ ] read chapter
 <hr>
-- [ ] read submitting-drivers.rst
+- [X] read submitting-drivers.rst
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+- [ ] read chapter
+<hr>
 - [ ] read tpp.txt
 - [ ] read patch-format.html
 - [ ] read stable-api-nonsense
