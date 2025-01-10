@@ -176,15 +176,40 @@
 - [ ] read chapter
 - [ ] read chapter
 <hr>
-- [ ] go to kernelnewbies.org
-- [ ] go to kernelnewbies.org/kerneljanitors
-- [ ] go to lxr.free-electrons.com
-- [ ] go to git-scm.com
-- [ ] go to bugzilla.kernel.org
-- [ ] fix a kernel bug
-- [ ] go to vger.kernel.org/vger-lists.html
-- [ ] go to dir.gmane.org/gmane.linux.kernel
-- [ ] go to albion.com/netiquette
+- [X] go to kernelnewbies.org
+- [ ] read outreachy
+- [ ] read changelog
+- [ ] read reporting bugs
+- [ ] read hacking
+- [ ] read glossary
+- [ ] read frequently asked questions
+- [ ] read documentation
+- [ ] read please edit our wiki
+<hr>
+- [X] go to kernelnewbies.org/kerneljanitors
+- [ ] go to the kernel janitors website
+- [ ] go to coderock.org
+- [ ] read the fixing kernel janitors article
+<hr>
+- [X] go to git-scm.com
+- [ ] read about
+- [ ] read documentation
+- [ ] read downloads
+- [ ] read community
+<hr>
+- [X] go to bugzilla.kernel.org
+- [ ] read file a bug
+- [ ] read search
+- [ ] read open a new account
+- [ ] documentation
+<hr>
+- [X] go to vger.kernel.org/vger-lists.html
+- [ ] check out the packages
+- [ ] read flags
+- [ ] read what happened
+- [ ] read requesting list hosting
+- [ ] read contacts
+<hr>
 - [ ] read nix.dev tutorials first steps
 - [ ] read nix language basics
 - [ ] read packaging existing software
