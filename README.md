@@ -77,7 +77,13 @@
 - [ ] read compiling the kernel
 - [ ] read if something goes wrong
 <hr>
-- [ ] read changes.rst
+- [X] read changes.rst
+- [ ] read intro
+- [ ] read kernel compilation
+- [ ] read system utilities
+- [ ] read networking
+- [ ] read getting updated software
+<hr>
 - [ ] read coding-style.rst
 - [ ] read submitting-patches.rst
 - [ ] read submitting-drivers.rst
