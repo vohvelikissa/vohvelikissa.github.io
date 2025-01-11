@@ -447,4 +447,10 @@
 - [X] kvg programming timezones
 - [ ] read ryan thomson a practical guide to timezones for developers
 <hr>
-- [ ] watch llvm fireship
+- [X] watch llvm fireship
+- [ ] kvg chris lattner
+- [ ] kvg clang
+- [ ] kvg high level
+- [ ] kvg llvm tools
+- [ ] kvg middleware
+<hr>
