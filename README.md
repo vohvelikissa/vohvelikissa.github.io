@@ -1,16 +1,5 @@
 # todo
 
-- [X] read readme
-- [ ] read what is linux
-- [ ] read on what hardware does it run
-- [ ] read documentation
-- [ ] read installing kernel source
-- [ ] read software requirements
-- [ ] read build directory for the kernel
-- [ ] read configuring the kernel
-- [ ] read compiling the kernel
-- [ ] read if something goes wrong
-<hr>
 - [X] read changes.rst
 - [ ] read intro
 - [ ] read kernel compilation
@@ -548,3 +537,7 @@
 - [ ] read spdx online tools
 - [ ] read spdx build tools
 - [ ] read spdx libraries
+- [ ] man xz
+- [ ] man patch
+- [ ] compile any kernel version whatsoever
+- [ ] configure a kernel version
