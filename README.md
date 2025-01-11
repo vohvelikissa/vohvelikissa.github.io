@@ -421,45 +421,30 @@
 - [ ] attend office hours
 - [ ] follow the team blog
 <hr>
-- [ ] read building rlottie
-- [ ] read demo
-- [ ] read previewing json files
-- [ ] read quick start
-- [ ] read dynamic property
-- [ ] read supported after effects features
-- [ ] read issues or feature requests
-- [ ] read one goal
-- [ ] read getting started
-- [ ] read how to contact
-- [ ] read jalangi2 introduction
-- [ ] read installation
-- [ ] read requirements
-- [ ] read usage
-- [ ] read kapa ai product answer engine
-- [ ] read deployment option
-- [ ] read data source connections
-- [ ] read analytics
-- [ ] read kapa ai solutions website & documentation
-- [ ] read community engagement
-- [ ] read customer support
-- [ ] read workplace assistant
-- [ ] read kapa ai resources blog
-- [ ] read company
-- [ ] read careers
-- [ ] read podcast
-- [ ] create a thing that uses chatgpt agent api
-- [ ] check out purescript
-- [ ] checkout nix home manager
-- [ ] read nix for frontend developers official docs
-- [ ] read youtube videos on nix
-- [ ] read nix commands through use cases
-- [ ] read a tour of nix
-- [ ] read home manager manual 
-- [ ] read node with nix
-- [ ] join the discord channel
-- [ ] kvg t-diagram
-- [ ] kvg bootstrapping
-- [ ] kvg programming timezones
-- [ ] kvg how does the linux clock work
-- [ ] kvg leap second google
+- [X] read building rlottie
+- [ ] install cmake
+- [ ] build rlottie
+<hr>
+- [X] read demo
+- [ ] read rlottie online viewer
+- [ ] run demo
+<hr>
+- [X] read quick start
+- [ ] read bodymovin
+- [ ] read lottie sketch export
+- [ ] read haiku
+<hr>
+- [X] create a thing that uses chatgpt agent api
+- [ ] imagine a project
+- [ ] implement chatgpt agent
+- [ ] publish
+<hr>
+- [X] check out purescript
+- [ ] read about
+- [ ] read quick start guide
+- [ ] read try purescript
+<hr>
+- [X] kvg programming timezones
+- [ ] read ryan thomson a practical guide to timezones for developers
+<hr>
 - [ ] watch llvm fireship
