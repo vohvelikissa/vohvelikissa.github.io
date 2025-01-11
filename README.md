@@ -1,18 +1,5 @@
 # todo
 
-- [X] go to bugzilla.kernel.org
-- [ ] read file a bug
-- [ ] read search
-- [ ] read open a new account
-- [ ] documentation
-<hr>
-- [X] go to vger.kernel.org/vger-lists.html
-- [ ] check out the packages
-- [ ] read flags
-- [ ] read what happened
-- [ ] read requesting list hosting
-- [ ] read contacts
-<hr>
 - [X] read nix.dev tutorials first steps
 - [ ] read ad hoc shell environments
 - [ ] read reproduciple interpreted scripts
@@ -503,3 +490,5 @@
 - [ ] join discord
 - [ ] join irc server
 - [ ] subscribe newsletter
+- [ ] create an account to bugzilla kernel
+- [ ] go back to vger
