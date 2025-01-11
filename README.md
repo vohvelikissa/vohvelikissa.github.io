@@ -1,11 +1,5 @@
 # todo
 
-- [X] read nix.dev tutorials first steps
-- [ ] read ad hoc shell environments
-- [ ] read reproduciple interpreted scripts
-- [ ] read declarative shell environments
-- [ ] read towards repro
-<hr>
 - [X] read nix language basics
 - [ ] read chapter
 - [ ] read chapter
