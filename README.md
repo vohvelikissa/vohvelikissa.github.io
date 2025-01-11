@@ -1,98 +1,5 @@
 # todo
 
-- [X] read changes.rst
-- [ ] read intro
-- [ ] read kernel compilation
-- [ ] read system utilities
-- [ ] read networking
-- [ ] read getting updated software
-<hr>
-- [X] read coding-style.rst
-- [ ] read indentation
-- [ ] read breaking long lines and strings
-- [ ] read placing braces and spaces
-- [ ] read naming
-- [ ] read typedefs
-- [ ] read functions
-- [ ] read centralized exiting of functions
-- [ ] read commenting
-- [ ] read you've made mess of it
-- [ ] read kconfig configuration files
-- [ ] read data structures
-- [ ] read macros, enums and rtl
-- [ ] read printing kernel messages
-- [ ] read allocating memory
-- [ ] read the inline disease
-- [ ] read function return values and names
-- [ ] read dont re-invent kernel macros
-- [ ] read editor modelines and other cruft
-- [ ] read inline assembly
-- [ ] read conditional compilation
-<hr>
-- [X] read submitting-patches.rst
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] read submitting-drivers.rst
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] read tpp.txt
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] read stable-api-nonsense
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] read security bugs
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] read management style
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] read stable-kernel-rules
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
 - [X] read kernel-docs
 - [ ] read chapter
 - [ ] read chapter
@@ -541,3 +448,10 @@
 - [ ] man patch
 - [ ] compile any kernel version whatsoever
 - [ ] configure a kernel version
+- [ ] print out gnu coding standards
+- [ ] print out linux kernel coding standards
+- [ ] clone the current source tree of linux
+- [ ] man diff
+- [ ] check out lwn.net
+- [ ] check out linux-usb.org
+- [ ] kvg cve
