@@ -1,32 +1,5 @@
 # todo
 
-- [X] read kernel-docs
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
-- [X] go to kernelnewbies.org
-- [ ] read outreachy
-- [ ] read changelog
-- [ ] read reporting bugs
-- [ ] read hacking
-- [ ] read glossary
-- [ ] read frequently asked questions
-- [ ] read documentation
-- [ ] read please edit our wiki
-<hr>
-- [X] go to kernelnewbies.org/kerneljanitors
-- [ ] go to the kernel janitors website
-- [ ] go to coderock.org
-- [ ] read the fixing kernel janitors article
-<hr>
-- [X] go to git-scm.com
-- [ ] read about
-- [ ] read documentation
-- [ ] read downloads
-- [ ] read community
-<hr>
 - [X] go to bugzilla.kernel.org
 - [ ] read file a bug
 - [ ] read search
@@ -455,3 +428,78 @@
 - [ ] check out lwn.net
 - [ ] check out linux-usb.org
 - [ ] kvg cve
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] check out the next linux doc thingie
+- [ ] go read the outreachy firstpatch
+- [ ] go read the LinuxChanges page
+- [ ] go read the foundbug page
+- [ ] go read the tutorial
+- [ ] go read the linux kernel hacking
+- [ ] go read the subsystems
+- [ ] go read the kernelglossary
+- [ ] go read the faq
+- [ ] go read the documents
+- [ ] go read the recentchanges
+- [ ] go read the helpforbeginners
+- [ ] go read the wikisandbox
+- [ ] go read the molnmoln
+- [ ] go read the findpage
+- [ ] go read the editorsgroup
+- [ ] read git-scm about branching and mercging
+- [ ] read small and fast
+- [ ] read distributed
+- [ ] read data assurance
+- [ ] read staging area
+- [ ] read free and open source
+- [ ] read trademark
+- [ ] read git-scm documentation reference
+- [ ] read book
+- [ ] read videos
+- [ ] read external links
+- [ ] read git-scm downloads gui clients
+- [ ] read logos
+- [ ] join git-scm mailing list
+- [ ] join discord
+- [ ] join irc server
+- [ ] subscribe newsletter
