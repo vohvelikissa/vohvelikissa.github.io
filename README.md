@@ -349,39 +349,78 @@
 - [ ] read
 - [ ] install
 <hr>
-- [ ] check out telescope-fzf-native.nvim
-- [ ] check out extensions wiki
-- [ ] check out sharkdp/fd
-- [ ] check out nvim-treesitter/nvim-treesitter
-- [ ] check out neovim LSP
-- [ ] check out devicons
-- [ ] try the command :Telescope
-- [ ] check out builtin pickers
-- [ ] check out configuration recipes
-- [ ] read vscode the repository
-- [ ] read contributing
-- [ ] read feedback
+- [X] read vscode the repository
+- [ ] read visual studio code
+- [ ] read roadmap
+- [ ] read monthly iteration plans
+- [ ] read endgame plans
+<hr>
+- [X] read contributing
+- [ ] read submit bugs and feature requests
+- [ ] read source code changes
+- [ ] read documentation
+- [ ] read how to contribute
+- [ ] read how to build and run from source
+- [ ] read the development workflow including debugging and running tests
+- [ ] read coding guidelines
+- [ ] read submitting pull requests
+- [ ] read finding an issue to work on
+- [ ] read contributing to translations
+<hr>
+- [X] read feedback
+- [ ] read stack overflow
+- [ ] read request a new feature
+- [ ] read popular feature requests
+- [ ] read file an issue
+- [ ] read github discussions
+- [ ] follow @code
+- [ ] read wiki
+<hr>
+- [X] read related projects
+- [ ] read node debug adapter
+- [ ] read mono debug adapter
 - [ ] read related projects
-- [ ] read bundled extensions
-- [ ] read development container
-- [ ] read semantic-kernel overview
+<hr>
+- [X] read bundled extensions
+- [ ] read extensions
+<hr>
+- [X] read development container
+- [ ] read dev containers
+- [ ] read here
+- [ ] read github codespaces
+- [ ] read development container readme
+<hr>
+- [X] read semantic-kernel overview
+- [ ] read semantic kernel
+- [ ] read open ai
+- [ ] read azure open ai
+- [ ] read hugging face
+- [ ] read plugins
+- [ ] read few lines of code
+- [ ] read planners
+- [ ] read chroma
+- [ ] read qdrant
+- [ ] read miivus
+<hr>
+- [X] read getting started
+- [ ] read feature matrix
+- [ ] read using with cs
+- [ ] read using with py
+- [ ] read using with java
+<hr>
+- [X] read learning how to use
 - [ ] read getting started
-- [ ] read learning how to use
-- [ ] read join the community
-- [ ] man colrm
-- [ ] man ls
-- [ ] man paste
-- [ ] man sort
-- [ ] man cmp
-- [ ] man diff
-- [ ] man find
-- [ ] man perl
-- [ ] man sed
-- [ ] man xargs
-- [ ] man read
-- [ ] man pcre2
-- [ ] man terminfo
-- [ ] man regex
+- [ ] read detailed samples
+- [ ] read concepts
+<hr>
+- [X] read join the community
+- [ ] read documentation
+- [ ] learn how to contribute
+- [ ] ask questions on github
+- [ ] ask questions on discord
+- [ ] attend office hours
+- [ ] follow the team blog
+<hr>
 - [ ] read building rlottie
 - [ ] read demo
 - [ ] read previewing json files
