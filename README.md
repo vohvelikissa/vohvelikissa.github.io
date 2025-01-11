@@ -2,7 +2,7 @@
 
 - [X] read the intro for "The C programming language"
 - [X] read chapter
-- [ ] read chapter
+- [X] read chapter
 - [ ] read chapter
 - [ ] read chapter
 - [ ] read chapter
@@ -471,3 +471,11 @@
 - [ ] do exercise 1-22
 - [ ] do exercise 1-23
 - [ ] do exercise 1-24
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
+- [ ] do exercise 2-x
