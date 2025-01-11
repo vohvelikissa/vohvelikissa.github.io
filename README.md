@@ -1,8 +1,8 @@
 # todo
 
 - [X] read the intro for "Practical c programming"
-- [ ] read chapter
-- [ ] read chapter
+- [X] read chapter
+- [X] read chapter
 - [ ] read chapter
 - [ ] read chapter
 - [ ] read chapter
@@ -526,3 +526,5 @@
 - [ ] do exercise 8-x
 - [ ] do exercise 8-x
 - [ ] do exercise 8-x
+- [ ] do exercise o reilly c 2-1
+- [ ] do exercise o reilly c 2-2
