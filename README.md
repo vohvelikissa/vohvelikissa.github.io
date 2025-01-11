@@ -1,10 +1,5 @@
 # todo
 
-- [X] check out SPDX
-- [ ] read learn
-- [ ] read use
-- [ ] read tools
-<hr>
 - [X] read readme
 - [ ] read what is linux
 - [ ] read on what hardware does it run
@@ -550,3 +545,6 @@
 - [ ] do exercise 18-x
 - [ ] do exercise 18-x
 - [ ] do exercise 18-x
+- [ ] read spdx online tools
+- [ ] read spdx build tools
+- [ ] read spdx libraries
