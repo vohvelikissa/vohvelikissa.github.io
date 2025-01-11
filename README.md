@@ -1,15 +1,5 @@
 # todo
 
-- [X] read the intro for "The C programming language"
-- [X] read chapter
-- [X] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
 - [X] read the intro for "Practical c programming"
 - [ ] read chapter
 - [ ] read chapter
@@ -479,3 +469,60 @@
 - [ ] do exercise 2-x
 - [ ] do exercise 2-x
 - [ ] do exercise 2-x
+- [ ] do exercise 3-x
+- [ ] do exercise 3-x
+- [ ] do exercise 3-x
+- [ ] do exercise 3-x
+- [ ] do exercise 3-x
+- [ ] do exercise 3-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
