@@ -1,30 +1,5 @@
 # todo
 
-- [X] read the intro for "Practical c programming"
-- [X] read chapter
-- [X] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-- [ ] read chapter
-<hr>
 - [X] check out SPDX
 - [ ] read learn
 - [ ] read use
@@ -502,3 +477,76 @@
 - [ ] do exercise 8-x
 - [ ] do exercise o reilly c 2-1
 - [ ] do exercise o reilly c 2-2
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 4-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 5-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 6-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 7-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 8-x
+- [ ] do exercise 9-x
+- [ ] do exercise 9-x
+- [ ] do exercise 9-x
+- [ ] do exercise 9-x
+- [ ] do exercise 9-x
+- [ ] do exercise 9-x
+- [ ] do exercise 10-x
+- [ ] do exercise 10-x
+- [ ] do exercise 10-x
+- [ ] do exercise 10-x
+- [ ] do exercise 11-x
+- [ ] do exercise 11-x
+- [ ] do exercise 11-x
+- [ ] do exercise 11-x
+- [ ] do exercise 11-x
+- [ ] do exercise 11-x
+- [ ] do exercise 12-x
+- [ ] do exercise 12-x
+- [ ] do exercise 12-x
+- [ ] do exercise 12-x
+- [ ] do exercise 13-x
+- [ ] do exercise 13-x
+- [ ] do exercise 14-x
+- [ ] do exercise 14-x
+- [ ] do exercise 14-x
+- [ ] do exercise 14-x
+- [ ] do exercise 14-x
+- [ ] do exercise 14-x
+- [ ] do exercise 15-x
+- [ ] do exercise 15-x
+- [ ] do exercise 15-x
+- [ ] do exercise 15-x
+- [ ] do exercise 15-x
+- [ ] do exercise 16-x
+- [ ] do exercise 16-x
+- [ ] do exercise 17-x
+- [ ] do exercise 17-x
+- [ ] do exercise 17-x
+- [ ] do exercise 17-x
+- [ ] do exercise 18-x
+- [ ] do exercise 18-x
+- [ ] do exercise 18-x
+- [ ] do exercise 18-x
