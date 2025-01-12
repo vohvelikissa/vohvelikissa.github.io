@@ -13,9 +13,26 @@
 - [ ] read library macros
 - [ ] read library functions
 <hr>
-- [ ] read spdx online tools
-- [ ] read spdx build tools
-- [ ] read spdx libraries
+- [X] read spdx online tools
+- [ ] read about
+- [ ] read validate
+- [ ] read compare
+- [ ] read convert
+- [ ] read check license
+- [ ] read license xml editor
+- [ ] read ntia conformance checker
+- [ ] read visual editor
+- [ ] read licencse requests
+<hr>
+- [X] read spdx build tools
+- [ ] read gradle
+- [ ] read maven
+<hr>
+- [X] read spdx libraries
+- [ ] read java
+- [ ] read python
+- [ ] read go
+<hr>
 - [ ] man xz
 - [ ] man patch
 - [ ] compile any kernel version whatsoever
