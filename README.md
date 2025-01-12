@@ -1,10 +1,5 @@
 # todo
 
-- [X] check out nvim-lua/plenary.nvim telescope
-- [ ] clone
-- [ ] read 
-- [ ] install
-<hr>
 - [X] check out burnsushi/ripgrep
 - [ ] clone
 - [ ] read
@@ -363,3 +358,4 @@
 - [ ] subscribe newsletter
 - [ ] create an account to bugzilla kernel
 - [ ] go back to vger
+- [ ] use plenary.nvim for something
