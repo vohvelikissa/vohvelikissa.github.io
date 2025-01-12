@@ -1,6 +1,13 @@
 # todo
 
-- [ ] kvg gleam
+- [X] kvg gleam
+- [ ] read news
+- [ ] read community
+- [ ] read sponsor
+- [ ] read packages
+- [ ] read docs
+- [ ] read code
+<hr>
 - [ ] check out stdio.h
 - [ ] write a program to count blanks tabs and newlines
 - [ ] write a program to copy its input to its output, replacing each string of one or more blanks by a single blank
