@@ -1,110 +1,5 @@
 # todo
 
-- [X] read vscode the repository
-- [ ] read visual studio code
-- [ ] read roadmap
-- [ ] read monthly iteration plans
-- [ ] read endgame plans
-<hr>
-- [X] read contributing
-- [ ] read submit bugs and feature requests
-- [ ] read source code changes
-- [ ] read documentation
-- [ ] read how to contribute
-- [ ] read how to build and run from source
-- [ ] read the development workflow including debugging and running tests
-- [ ] read coding guidelines
-- [ ] read submitting pull requests
-- [ ] read finding an issue to work on
-- [ ] read contributing to translations
-<hr>
-- [X] read feedback
-- [ ] read stack overflow
-- [ ] read request a new feature
-- [ ] read popular feature requests
-- [ ] read file an issue
-- [ ] read github discussions
-- [ ] follow @code
-- [ ] read wiki
-<hr>
-- [X] read related projects
-- [ ] read node debug adapter
-- [ ] read mono debug adapter
-- [ ] read related projects
-<hr>
-- [X] read bundled extensions
-- [ ] read extensions
-<hr>
-- [X] read development container
-- [ ] read dev containers
-- [ ] read here
-- [ ] read github codespaces
-- [ ] read development container readme
-<hr>
-- [X] read semantic-kernel overview
-- [ ] read semantic kernel
-- [ ] read open ai
-- [ ] read azure open ai
-- [ ] read hugging face
-- [ ] read plugins
-- [ ] read few lines of code
-- [ ] read planners
-- [ ] read chroma
-- [ ] read qdrant
-- [ ] read miivus
-<hr>
-- [X] read getting started
-- [ ] read feature matrix
-- [ ] read using with cs
-- [ ] read using with py
-- [ ] read using with java
-<hr>
-- [X] read learning how to use
-- [ ] read getting started
-- [ ] read detailed samples
-- [ ] read concepts
-<hr>
-- [X] read join the community
-- [ ] read documentation
-- [ ] learn how to contribute
-- [ ] ask questions on github
-- [ ] ask questions on discord
-- [ ] attend office hours
-- [ ] follow the team blog
-<hr>
-- [X] read building rlottie
-- [ ] install cmake
-- [ ] build rlottie
-<hr>
-- [X] read demo
-- [ ] read rlottie online viewer
-- [ ] run demo
-<hr>
-- [X] read quick start
-- [ ] read bodymovin
-- [ ] read lottie sketch export
-- [ ] read haiku
-<hr>
-- [X] create a thing that uses chatgpt agent api
-- [ ] imagine a project
-- [ ] implement chatgpt agent
-- [ ] publish
-<hr>
-- [X] check out purescript
-- [ ] read about
-- [ ] read quick start guide
-- [ ] read try purescript
-<hr>
-- [X] kvg programming timezones
-- [ ] read ryan thomson a practical guide to timezones for developers
-<hr>
-- [X] watch llvm fireship
-- [ ] kvg chris lattner
-- [ ] kvg clang
-- [ ] kvg high level
-- [ ] kvg llvm tools
-- [ ] kvg middleware
-<hr>
 - [ ] kvg gleam
 - [ ] check out stdio.h
 - [ ] write a program to count blanks tabs and newlines
@@ -355,3 +250,38 @@
 - [ ] go back to vger
 - [ ] use plenary.nvim for something
 - [ ] man rg
+- [ ] install vscode
+- [ ] read 3 vscode issues
+- [ ] read 3 pullrequests
+- [ ] read semantic kernel getting started
+- [ ] read concepts
+- [ ] read frameworks
+- [ ] read getting support
+- [ ] read api reference
+- [ ] create a react app that has pizza
+- [ ] make the button buy pizza
+- [ ] ask chatgpt to give me fun pizza facts
+- [ ] read purescript installing the compiler
+- [ ] read setting up the development environment
+- [ ] read installing dependencies
+- [ ] read working in psci
+- [ ] read solving project euler #1
+- [ ] read compiling a solution
+- [ ] read writing a test suite
+- [ ] read creating executables
+- [ ] read compiling for the browser
+- [ ] read compiling es modules
+- [ ] read whats next?
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
+- [ ] read a primary sub project of llvm
