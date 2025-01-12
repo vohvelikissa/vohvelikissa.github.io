@@ -13,18 +13,6 @@
 - [ ] read library macros
 - [ ] read library functions
 <hr>
-- [ ] write a program to count blanks tabs and newlines
-- [ ] write a program to copy its input to its output, replacing each string of one or more blanks by a single blank
-- [ ] write a program to copy its input to its output replacing each tab by \t, each backspace by \b and each backslash by \\. This makes tabs and backspaces visible in an unambiguous way
-- [ ] write a word count program
-- [ ] how would you test the word count program? what kinds of input are most likely to uncover bugs if there are any?
-- [ ] write a program that prints its input one word per line
-- [ ] write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging.
-- [ ] write a program to print histogram of the frequencies of different characters in its input
-- [ ] write a program to print all input lines that are longer than 80 characters
-- [ ] write a program to remove trailing blanks and tabs from each line of input and to delete entirely blank lines
-- [ ] write a function reverse(s) that reverses the character string s. use it to write a program that reverses its input a line at a time
-- [ ] write a program detab that replaces tabs in the input with the proper number of blanks to space to the next tab stop. Assume a fixed set of tab stops, say every n columns. should n be a variableor a symbolic parameter
 - [ ] do exercise 1-22
 - [ ] do exercise 1-23
 - [ ] do exercise 1-24
