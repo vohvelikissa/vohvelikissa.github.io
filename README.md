@@ -13,9 +13,6 @@
 - [ ] read library macros
 - [ ] read library functions
 <hr>
-- [ ] do exercise 1-22
-- [ ] do exercise 1-23
-- [ ] do exercise 1-24
 - [ ] do exercise 2-x
 - [ ] do exercise 2-x
 - [ ] do exercise 2-x
