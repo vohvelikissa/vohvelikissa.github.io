@@ -1,10 +1,5 @@
 # todo
 
-- [X] check out burnsushi/ripgrep
-- [ ] clone
-- [ ] read
-- [ ] install
-<hr>
 - [X] read vscode the repository
 - [ ] read visual studio code
 - [ ] read roadmap
@@ -359,3 +354,4 @@
 - [ ] create an account to bugzilla kernel
 - [ ] go back to vger
 - [ ] use plenary.nvim for something
+- [ ] man rg
