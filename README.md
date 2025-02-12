@@ -27,3 +27,39 @@ The core features of chatgpt are:
 - How to do voice with deepseek
 
 <hr>
+
+<hr>
+## How to do web browsing at home with deepseek
+## Resources and sources used
+## Future questions
+<hr>
+
+<hr>
+## How to do image processing at home with deepseek
+## Resources and sources used
+## Future questions
+<hr>
+
+<hr>
+## How to generate images at home with deepseek
+## Resources and sources used
+## Future questions
+<hr>
+
+<hr>
+## How to do text document processing at home with deepseek
+## Resources and sources used
+## Future questions
+<hr>
+
+<hr>
+## How to do advanced data analysis with deepseek
+## Resources and sources used
+## Future questions
+<hr>
+
+<hr>
+## How to do voice at home with deepseek
+## Resources and sources used
+## Future questions
+<hr>
