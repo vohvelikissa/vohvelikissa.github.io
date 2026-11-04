@@ -275,89 +275,18 @@
             text-shadow: 0 2px 10px rgba(52, 152, 219, 0.3);
         }
 
-        /* Projects Section */
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-            margin: 1.5rem 0;
-        }
-        
-        .project-card {
-            background: linear-gradient(135deg, rgba(52, 152, 219, 0.05), rgba(46, 204, 113, 0.05));
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 1.5rem;
-            transition: var(--transition);
+        /* Projects Link in Content */
+        .projects-link {
+            color: var(--accent);
             text-decoration: none;
-            color: inherit;
-            display: block;
-        }
-        
-        .project-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-            border-color: var(--accent);
-        }
-        
-        .project-card h3 {
-            color: var(--primary);
-            font-size: 1.2rem;
-            margin-bottom: 0.75rem;
             font-weight: 600;
-        }
-        
-        .project-card p {
-            color: var(--text);
-            margin-bottom: 1rem;
-            font-size: 0.95rem;
-            line-height: 1.6;
-        }
-        
-        .project-tech {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            margin-top: 1rem;
-        }
-        
-        .tech-tag {
-            background: rgba(52, 152, 219, 0.1);
-            color: var(--accent);
-            padding: 0.25rem 0.75rem;
-            border-radius: 20px;
-            font-size: 0.75rem;
-            font-weight: 500;
             transition: var(--transition);
-        }
-        
-        .tech-tag:hover {
-            background: var(--accent);
-            color: white;
-        }
-        
-        .project-status {
             display: inline-block;
-            padding: 0.25rem 0.75rem;
-            border-radius: 20px;
-            font-size: 0.75rem;
-            font-weight: 500;
-            margin-top: 1rem;
         }
-        
-        .project-status.in-progress {
-            background: rgba(243, 156, 18, 0.1);
-            color: #f39c12;
-        }
-        
-        .project-status.completed {
-            background: rgba(46, 204, 113, 0.1);
+
+        .projects-link:hover {
             color: #2ecc71;
-        }
-        
-        .project-status.planned {
-            background: rgba(52, 152, 219, 0.1);
-            color: var(--accent);
+            transform: translateX(5px);
         }
 
         /* Responsive Design */
@@ -395,6 +324,10 @@
 
             .contentparent h2 {
                 font-size: 1.4rem;
+            }
+
+            .projects-link {
+                text-align: left;
             }
 
             .contentparent h3 {
@@ -453,6 +386,7 @@
     <nav class="navbar">
         <a href="http://vilppolahti.com" class="active">Home</a>
         <a href="./blog/index.html">Blog</a>
+        <a href="./projects/index.html">Projects</a>
     </nav>
     
     <div class="contentparent">
@@ -498,41 +432,9 @@
         that would really help people in a way that is scaleable
         and long lasting.</p>
         
-        <h2>Projects</h2>
-        <div class="projects-grid">
-            <a href="#" class="project-card">
-                <h3>Personal Website</h3>
-                <p>My professional portfolio and blog, built with HTML, CSS, and a bit of help from AI.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">HTML</span>
-                    <span class="tech-tag">CSS</span>
-                    <span class="tech-tag">JavaScript</span>
-                </div>
-                <span class="project-status completed">Completed</span>
-            </a>
-            
-            <a href="#" class="project-card">
-                <h3>AI Agent Experiments</h3>
-                <p>Exploring the capabilities of AI agents using the pi harness and various local models.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">Python</span>
-                    <span class="tech-tag">AI</span>
-                    <span class="tech-tag">pi.dev</span>
-                </div>
-                <span class="project-status in-progress">In Progress</span>
-            </a>
-            
-            <a href="#" class="project-card">
-                <h3>Health Tech Research</h3>
-                <p>Learning about Health Technology standards and preparing for CEHRS and ITF+ certifications.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">Health Tech</span>
-                    <span class="tech-tag">Research</span>
-                    <span class="tech-tag">Certification</span>
-                </div>
-                <span class="project-status in-progress">In Progress</span>
-            </a>
-        </div>
+        <p>
+            <a href="./projects/index.html" class="projects-link">→ Check out my Projects</a>
+        </p>
         
         <hr>
         <h2>Contact Information</h2>
