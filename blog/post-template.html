@@ -113,6 +113,22 @@
             border-radius: 2px;
         }
 
+        /* AI Disclaimer */
+        .ai-disclaimer {
+            background: rgba(243, 156, 18, 0.1);
+            border-left: 4px solid #f39c12;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+            font-size: 0.9rem;
+            color: #8e44ad;
+        }
+
+        .ai-disclaimer::before {
+            content: '🤖';
+            margin-right: 0.5rem;
+        }
+
         /* Post Meta */
         .post-meta {
             text-align: center;
@@ -228,6 +244,39 @@
             margin: 1.5rem auto;
         }
 
+        /* Conversation Styling */
+        .conversation {
+            background: rgba(52, 152, 219, 0.03);
+            border-left: 4px solid var(--accent);
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .conversation p {
+            margin-bottom: 0.8rem;
+        }
+
+        .conversation p:last-child {
+            margin-bottom: 0;
+        }
+
+        .user-message {
+            background: rgba(52, 152, 219, 0.1);
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            margin: 0.5rem 0;
+            border-left: 3px solid var(--accent);
+        }
+
+        .ai-message {
+            background: rgba(46, 204, 113, 0.1);
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            margin: 0.5rem 0;
+            border-left: 3px solid #2ecc71;
+        }
+
         /* Footer */
         .footer {
             text-align: center;
@@ -337,6 +386,11 @@
     <div class="contentparent">
         <h1>POST_TITLE</h1>
         
+        <div class="ai-disclaimer">
+            <strong>Note:</strong> This blog post is entirely AI-generated content. It serves as a template and placeholder 
+            until real content is added. The actual conversation and events described may not have occurred exactly as written.
+        </div>
+        
         <div class="post-meta">
             <span class="date">DATE</span>
             <span class="author">Pessi Vilppolahti</span>
@@ -346,6 +400,7 @@
         <!-- Post Content Goes Here -->
         <p>Your blog post content goes here. Write in regular HTML or Markdown.</p>
 
+        <!-- Footer -->
     </div>
 </body>
 </html>
