@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building My Website: A Conversation with AI | Pessi Vilppolahti</title>
+    <style>
+        /* ============================================
+           UNIFIED STYLING WITH MAIN SITE
+           ============================================ */
+        
+        :root {
+            --primary: #2c3e50;
+            --secondary: #34495e;
+            --accent: #3498db;
+            --accent-glow: rgba(52, 152, 219, 0.3);
+            --light: #ecf0f1;
+            --dark: #2c3e50;
+            --text: #333;
+            --text-light: #7f8c8d;
+            --border: #bdc3c7;
+            --shadow: rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        }
+
+        /* Base Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.7;
+            color: var(--text);
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 2rem 0;
+        }
+
+        /* Navigation */
+        .navbar {
+            max-width: 800px;
+            margin: 0 auto 2rem;
+            padding: 0 2rem;
+            text-align: center;
+        }
+
+        .navbar a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: var(--transition);
+        }
+
+        .navbar a:hover {
+            background: rgba(52, 152, 219, 0.1);
+            color: var(--accent);
+        }
+
+        /* Main Container - MATCHES YOUR HOMEPAGE */
+        .contentparent {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 3rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.08);
+            position: relative;
+            overflow: hidden;
+            transition: var(--transition);
+        }
+
+        .contentparent::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 6px;
+            background: linear-gradient(90deg, var(--accent), #2ecc71, #e74c3c));
+        }
+
+        /* Header */
+        .contentparent h1 {
+            text-align: center;
+            margin-bottom: 0.5rem;
+            color: var(--primary);
+            font-size: 2.2rem;
+            font-weight: 700;
+            letter-spacing: -1px;
+            position: relative;
+            padding-bottom: 1rem;
+        }
+
+        .contentparent h1::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent), #2ecc71));
+            border-radius: 2px;
+        }
+
+        /* Post Meta */
+        .post-meta {
+            text-align: center;
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .post-meta span {
+            display: inline-block;
+            margin: 0 1rem;
+        }
+
+        .post-meta span::before {
+            margin-right: 0.5rem;
+        }
+
+        .date::before {
+            content: '📅';
+        }
+
+        .author::before {
+            content: '✍️';
+        }
+
+        .reading-time::before {
+            content: '⏱️';
+        }
+
+        /* Content Styling */
+        .contentparent h2 {
+            color: var(--primary);
+            font-size: 1.6rem;
+            font-weight: 600;
+            margin: 2rem 0 1rem;
+            padding-bottom: 0.5rem;
+        }
+
+        .contentparent h3 {
+            color: var(--secondary);
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin: 1.8rem 0 0.8rem;
+        }
+
+        .contentparent p {
+            margin-bottom: 1.2rem;
+            color: var(--text);
+            text-align: justify;
+        }
+
+        .contentparent ul,
+        .contentparent ol {
+            margin: 1rem 0 1.5rem 1.5rem;
+            padding: 0;
+        }
+
+        .contentparent li {
+            margin-bottom: 0.5rem;
+            line-height: 1.7;
+        }
+
+        .contentparent blockquote {
+            border-left: 4px solid var(--accent);
+            padding-left: 1rem;
+            margin: 1.5rem 0;
+            color: var(--secondary);
+            font-style: italic;
+        }
+
+        .contentparent code {
+            background: rgba(52, 152, 219, 0.1);
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 0.9rem;
+        }
+
+        .contentparent pre {
+            background: rgba(52, 152, 219, 0.05);
+            padding: 1rem;
+            border-radius: 6px;
+            overflow-x: auto;
+            margin: 1rem 0;
+            border-left: 4px solid var(--accent);
+        }
+
+        .contentparent pre code {
+            background: transparent;
+            padding: 0;
+        }
+
+        .contentparent a {
+            color: var(--accent);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+
+        .contentparent a:hover {
+            color: #2ecc71;
+            text-decoration: underline;
+        }
+
+        /* Image Styling */
+        .contentparent img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            display: block;
+            margin: 1.5rem auto;
+        }
+
+        /* Conversation Styling */
+        .conversation {
+            background: rgba(52, 152, 219, 0.03);
+            border-left: 4px solid var(--accent);
+            padding: 1rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .conversation p {
+            margin-bottom: 0.8rem;
+        }
+
+        .conversation p:last-child {
+            margin-bottom: 0;
+        }
+
+        .user-message {
+            background: rgba(52, 152, 219, 0.1);
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            margin: 0.5rem 0;
+            border-left: 3px solid var(--accent);
+        }
+
+        .ai-message {
+            background: rgba(46, 204, 113, 0.1);
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            margin: 0.5rem 0;
+            border-left: 3px solid #2ecc71;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            color: var(--text-light);
+        }
+
+        .footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            color: #2ecc71;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem 0;
+            }
+
+            .contentparent {
+                padding: 2rem 1.5rem;
+                max-width: 95%;
+                margin: 0 1rem;
+            }
+
+            .contentparent h1 {
+                font-size: 2rem;
+            }
+
+            .contentparent h2 {
+                font-size: 1.4rem;
+            }
+
+            .contentparent h3 {
+                font-size: 1.2rem;
+            }
+
+            .contentparent p,
+            .contentparent li {
+                text-align: left;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .contentparent {
+                padding: 1.5rem 1rem;
+            }
+
+            .contentparent h1 {
+                font-size: 1.7rem;
+            }
+
+            .contentparent h2 {
+                font-size: 1.3rem;
+            }
+
+            .contentparent h3 {
+                font-size: 1.1rem;
+            }
+
+            .navbar {
+                padding: 0 1rem;
+            }
+
+            .navbar a {
+                padding: 0.5rem;
+                font-size: 1rem;
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            body {
+                background: white;
+            }
+
+            .contentparent {
+                box-shadow: none;
+                padding: 0;
+                max-width: 100%;
+            }
+
+            .contentparent::before {
+                display: none;
+            }
+
+            .navbar {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <a href="http://vilppolahti.com">Home</a>
+        <a href="./index.html">Blog</a>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="contentparent">
+        <h1>Building My Website: A Conversation with AI</h1>
+        
+        <div class="post-meta">
+            <span class="date">June 2025</span>
+            <span class="author">Pessi Vilppolahti</span>
+            <span class="reading-time">5 min read</span>
+        </div>
+
+        <p>
+            I've been working on my personal website for a while now, and today I had an interesting 
+            conversation with an AI assistant that helped me transform it from a simple page into something 
+            much more professional. I thought it would be worth documenting this journey, as it shows how 
+            AI can be a powerful collaborator in the creative process.
+        </p>
+
+        <h2>The Starting Point</h2>
+        
+        <p>
+            My website started as a very basic HTML page. I had my name, a photo, some information about 
+            myself, and my contact details. It was functional, but not particularly impressive. The styling 
+            was minimal - just a simple container with some basic text formatting. It served its purpose, 
+            but I knew it could be better.
+        </p>
+
+        <h2>The First Request: Make It Fancy</h2>
+        
+        <p>
+            I asked the AI to make my index.html look "really really fancy." What followed was quite 
+            spectacular. The AI transformed my simple page into something that looked like it belonged 
+            in a modern portfolio showcase. There were particle backgrounds, twinkling stars, glowing 
+            orbs, glassmorphism effects, and smooth animations everywhere.
+        </p>
+
+        <div class="conversation">
+            <div class="user-message">
+                <strong>Me:</strong> make the index.html look really really fancy
+            </div>
+            <div class="ai-message">
+                <strong>AI:</strong> *creates a spectacular cyber-futuristic design with particles, stars, and animations*
+            </div>
+        </div>
+
+        <p>
+            It was impressive, but perhaps a bit <em>too</em> much. The design was beautiful, but it 
+            didn't quite feel like "me." It was more of a tech demo than a professional portfolio.
+        </p>
+
+        <h2>The Iteration Process</h2>
+        
+        <p>
+            What followed was a series of refinements. I asked for changes, the AI made them, and we 
+            went back and forth until we found something that worked. Here's how the conversation 
+            progressed:
+        </p>
+
+        <div class="conversation">
+            <div class="user-message">
+                <strong>Me:</strong> make it responsive too
+            </div>
+            <div class="ai-message">
+                <strong>AI:</strong> *adds comprehensive responsive design with mobile navigation*
+            </div>
+            <div class="user-message">
+                <strong>Me:</strong> remove the top navigation entirely
+            </div>
+            <div class="ai-message">
+                <strong>AI:</strong> *removes all navigation elements*
+            </div>
+            <div class="user-message">
+                <strong>Me:</strong> make it look professional without changing the actual content
+            </div>
+            <div class="ai-message">
+                <strong>AI:</strong> *creates a clean, professional design that maintains all content*
+            </div>
+        </div>
+
+        <p>
+            This back-and-forth was actually quite educational. Each iteration taught me more about 
+            what I actually wanted from my website. The AI was patient and accommodating, making 
+            changes quickly and accurately based on my feedback.
+        </p>
+
+        <h2>Adding the Blog</h2>
+        
+        <p>
+            After we settled on a professional design for the main page, I decided I wanted to add a 
+            blog. Again, I turned to the AI for help. I asked for a simple HTML blog that would look 
+            unified with my homepage.
+        </p>
+
+        <p>
+            The AI created a complete blog system with:
+        </p>
+        
+        <ul>
+            <li>A blog listing page that matches my homepage design</li>
+            <li>A template for creating new blog posts</li>
+            <li>Navigation between the homepage and blog</li>
+            <li>Consistent styling across all pages</li>
+        </ul>
+
+        <p>
+            And now, here we are - my first blog post, written with the assistance of the same AI 
+            that helped me build the website it's being published on.
+        </p>
+
+        <h2>Reflections on Working with AI</h2>
+        
+        <p>
+            This experience has given me some interesting insights into working with AI:
+        </p>
+
+        <ol>
+            <li>
+                <strong>AI is a great collaborator.</strong> It doesn't replace your creativity; it 
+                enhances it. The AI can generate ideas and implementations quickly, but you're still 
+                the one making the decisions about what works and what doesn't.
+            </li>
+            <li>
+                <strong>Iteration is key.</strong> Rarely will the first version be perfect. The ability 
+                to quickly iterate and refine is where AI really shines. It can make changes instantly 
+                based on your feedback.
+            </li>
+            <li>
+                <strong>You learn by doing.</strong> Even though the AI is doing a lot of the technical 
+                work, I'm learning a tremendous amount by seeing how it solves problems and implements 
+                designs.
+            </li>
+            <li>
+                <strong>It's okay to change your mind.</strong> The AI doesn't get frustrated if you 
+                change direction. It's happy to revert changes, try different approaches, or start over 
+                completely.
+            </li>
+        </ol>
+
+        <h2>The Technical Details</h2>
+        
+        <p>
+            For those who are interested in the technical side, here's what we ended up with:
+        </p>
+
+        <ul>
+            <li>
+                <strong>Static HTML/CSS:</strong> No frameworks, no databases, just simple static files 
+                that load quickly and work everywhere.
+            </li>
+            <li>
+                <strong>Unified Design:</strong> The blog shares the same color scheme, typography, and 
+                styling as the main page, creating a cohesive experience.
+            </li>
+            <li>
+                <strong>Responsive Design:</strong> Works on desktop, tablet, and mobile devices.
+            </li>
+            <li>
+                <strong>Easy to Maintain:</strong> Adding new blog posts is as simple as copying a template 
+                and filling in the content.
+            </li>
+        </ul>
+
+        <p>
+            The entire site is hosted on GitHub Pages, which means it's free, fast, and reliable. 
+            And since it's all static files, there's no server to maintain or database to manage.
+        </p>
+
+        <h2>What's Next?</h2>
+        
+        <p>
+            I'm planning to write more blog posts in the future. Some topics I'm considering:
+        </p>
+
+        <ul>
+            <li>My journey into Health Technology</li>
+            <li>Working with AI agents and the pi harness</li>
+            <li>Embedded development with C++</li>
+            <li>Building robots and drones</li>
+            <li>More reflections on working with AI</li>
+        </ul>
+
+        <p>
+            I'm also planning to continue refining the website. There are always improvements to be 
+            made, and I'm sure the AI and I will have many more interesting conversations as we 
+            continue to develop it.
+        </p>
+
+        <h2>Conclusion</h2>
+        
+        <p>
+            Building this website has been a rewarding experience. It's been a collaboration between 
+            me and an AI, and I think the result is something we can both be proud of. The website 
+            is professional, functional, and - most importantly - it feels like mine.
+        </p>
+
+        <p>
+            If you're reading this, I hope you'll check back often. And if you're a fellow developer 
+            thinking about using AI to help with your projects, I'd encourage you to give it a try. 
+            It might just surprise you with what it can do.
+        </p>
+
+        <p>
+            <em>Pessi Vilppolahti<br>
+            Software Engineer & AI Enthusiast</em>
+        </p>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p><a href="./index.html">← Back to Blog</a></p>
+        </div>
+    </div>
+</body>
+</html>
