@@ -203,6 +203,21 @@
             color: var(--accent);
         }
 
+        /* GitHub Link */
+        .github-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 600;
+            transition: var(--transition);
+            display: inline-block;
+            margin-top: 1rem;
+        }
+
+        .github-link:hover {
+            color: #2ecc71;
+            transform: translateX(5px);
+        }
+
         /* Responsive Design */
         @media (max-width: 768px) {
             body {
@@ -274,7 +289,7 @@
         <h1>Projects</h1>
         
         <div class="projects-grid">
-            <a href="#" class="project-card">
+            <div class="project-card">
                 <h3>Personal Website</h3>
                 <p>My professional portfolio and blog, built with HTML, CSS, and a bit of help from AI.</p>
                 <div class="project-tech">
@@ -283,29 +298,8 @@
                     <span class="tech-tag">JavaScript</span>
                 </div>
                 <span class="project-status completed">Completed</span>
-            </a>
-            
-            <a href="#" class="project-card">
-                <h3>AI Agent Experiments</h3>
-                <p>Exploring the capabilities of AI agents using the pi harness and various local models.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">Python</span>
-                    <span class="tech-tag">AI</span>
-                    <span class="tech-tag">pi.dev</span>
-                </div>
-                <span class="project-status in-progress">In Progress</span>
-            </a>
-            
-            <a href="#" class="project-card">
-                <h3>Health Tech Research</h3>
-                <p>Learning about Health Technology standards and preparing for CEHRS and ITF+ certifications.</p>
-                <div class="project-tech">
-                    <span class="tech-tag">Health Tech</span>
-                    <span class="tech-tag">Research</span>
-                    <span class="tech-tag">Certification</span>
-                </div>
-                <span class="project-status in-progress">In Progress</span>
-            </a>
+                <p><a href="https://github.com/vohvelikissa/vohvelikissa.github.io" class="github-link">View on GitHub →</a></p>
+            </div>
         </div>
     </div>
 </body>
